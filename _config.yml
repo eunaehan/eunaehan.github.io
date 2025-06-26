@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "jekyll-theme-cayman"
+# site_theme               : "jekyll-theme-cayman"
+theme                    : jekyll-theme-cayman
 title                    : "Dr. Eunae Han | Counselor Educator & Researcher"
 title_separator          : "-"
 name                     : &name "Dr. Eunae Han"
