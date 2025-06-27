@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of the Spanish version of the machismo measure with Mexican men who have a history of domestic violence"
 collection: publications
-permalink: /publication/machismo-mexican-men/
+permalink: /publication/2024-01-01-paper-title-number-3
 authors: "Carrola, P., Han, E., Rocha, J., Valles, A. C., González Valles, M. N., Martínez, J. R., & Anguiano, J. A."
 venue: "Measurement and Evaluation in Counseling and Development"
 year: 2024
