@@ -9,7 +9,7 @@ layout: single
 ## LPC Associate Practice under Supervision  
 **Fall 2023 – Present**  
 **Supervisors:** Gerardo Rosas (#63565) and Zul Estrada (#65059)  
-**Site:** [Associated Behavioral and Trauma Specialties (ABTS)](https://www.abts.us/), El Paso, TX  
+**Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, TX  
 
 Providing counseling services under supervision for 4 hours per month. Services include intake interviews, psychological testing, and individual counseling for children, adolescents, and adults. Also provide couple and marriage counseling, as well as family counseling.
 
