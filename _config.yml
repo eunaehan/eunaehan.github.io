@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : *name
   pronouns         : "she/her"  
-  bio              : "Eunae Han, Ph.D., NCC, LPC Associate. Assistant Professor in the Counseling and Special Education department "
+  bio              : "Eunae Han, Ph.D., NCC, LPC Associate (TX). | Assistant Professor in the Counseling and Special Education department "
   location         : "El Paso, TX"
   employer         : "University of Texas at El Paso"
   uri              : "https://hb2504.utep.edu/Home/Profile?username=ehan"
-  email            : "ehan@utep.edu" 
+  email            : "dr.eunaehan@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=hrDIsn0AAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7117-8672"
   semantic         : # URL
