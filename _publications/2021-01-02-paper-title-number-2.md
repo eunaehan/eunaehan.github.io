@@ -9,4 +9,4 @@ year: 2021
 paperurl: 'https://doi.org/10.23103/dnueje.2021.37.1.1'
 ---
 
-Abstract
+Han, E., Kim, C., & Kang, M. (2021). Understanding the Influence of Two Types of Ruminations on Posttraumatic Growth. Journal of Asia Pacific Counseling, 11(1).
