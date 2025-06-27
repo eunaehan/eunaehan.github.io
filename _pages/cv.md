@@ -43,12 +43,12 @@ Primary Research Interests
 Professional Certification and Licensure
 ========================================
 
-* **Licensed Professional Counselor Associate (#92958)** – *EMDR Trained*  
-  *Supervised by Gerardo Rosas (#63565) and Zul Estrada (#65059)*  
+* **Licensed Professional Counselor Associate** – *EMDR Trained*  
+  *Supervised by Gerardo Rosas and Zul Estrada*  
   Texas State Board of Examiners of Professional Counselors, United States  
   **2023 – Present**
 
-* **National Certified Counselor (#1726167)**  
+* **National Certified Counselor**  
   National Board for Certified Counselors, United States  
   **2023 – Present**
 
