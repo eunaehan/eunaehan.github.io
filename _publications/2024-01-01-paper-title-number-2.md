@@ -1,7 +1,7 @@
 ---
 title: "Adverse childhood experiences, work-related stress, and trauma-informed care among novice counselors"
 collection: publications
-permalink: /publication/aces-trauma-novice-counselors/
+permalink: /publication/2024-01-01-paper-title-number-2
 authors: "Han, E., & Carrola, P."
 venue: "Journal of Counselor Preparation and Supervision"
 year: 2024
