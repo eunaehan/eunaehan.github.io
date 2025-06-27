@@ -4,7 +4,7 @@ title: "[Korean] A moderating effect of individualism-collectivism on the relati
 collection: publications
 permalink: /publication/sexism-sexual-assertiveness-individualism-collectivism/
 authors: "Han, E., & Kim, N."
-journal: "Korean Journal of Elementary Education"
+venue: "Korean Journal of Elementary Education"
 year: 2021
 paperurl: 'https://doi.org/10.23103/dnueje.2021.37.1.1'
 ---
