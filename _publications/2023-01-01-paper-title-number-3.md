@@ -1,7 +1,7 @@
 ---
 title: "Effect of school counselor training on self-efficacy in crisis handling"
 collection: publications
-permalink: /publication/crisis-counselor-training/
+permalink: /publication/2023-01-01-paper-title-number-3
 authors: "Brown, C. H., & Han, E."
 venue: "Journal of Educational Research and Practice"
 year: 2023
