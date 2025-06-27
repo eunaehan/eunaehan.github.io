@@ -3,7 +3,7 @@ title: "Counselors’ theoretical orientations and competencies in counseling wo
 collection: publications
 permalink: /publication/counseling-women-competencies/
 authors: "Han, E., Hoffman, L., & Wood, S.M."
-journal: "Journal of Counseling & Development"
+venue: "Journal of Counseling & Development"
 year: 2025
 paperurl: "https://doi.org/10.1002/jcad.12541"
 category: manuscripts
