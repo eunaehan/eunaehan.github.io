@@ -8,8 +8,8 @@ layout: single
 **Jump to section:**  
 [Editorial Board and Review Committee Membership](#editorial-board-and-review-committee-membership)  
 [Professional Service and Leadership](#professional-service-and-leadership)  
-[Professional Membership & Affiliations](#professional-membership--affiliations)
-
+[Professional Membership & Affiliations](#professional-membership--affiliations)  
+[Workshops](#workshops)  
 ---
 
 ## Editorial Board and Review Committee Membership  
@@ -147,4 +147,25 @@ Worked as a treasurer to keep accurate financial records and prepare the annual 
 - **North Central Association for Counselor Education and Supervision** (2019–2022)  
 - **American Counseling Association of Iowa** (2018–2022)
 
+---
+
+## Workshops  
+
+### U.S.–Mexico Counseling Profession Community Workshop Series
+
+- **Han, E.** (November 2024)  
+  *STAT 101: Basics to Understand Structural Equation Modeling*  
+  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
+
+- **Carrola, P., Han, E., & Rocha, J.** (April 2024)  
+  *Supervision, Counselor Professional Identity, and Licensure in the U.S.*  
+  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
+
+- **Carrola, P. & Han, E.** (December 2023)  
+  *Case Conceptualization & Treatment Plan in Mental Health Counseling*  
+  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
+
+- **Han, E.** (October 2023)  
+  *Assessment Practices in Mental Health Counseling in the U.S.*  
+  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
 
