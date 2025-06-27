@@ -9,4 +9,4 @@ year: 2021
 paperurl: 'https://doi.org/10.23103/dnueje.2021.37.1.1'
 ---
 
-Abstract
+Han, E., & Kim, N
