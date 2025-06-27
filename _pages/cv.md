@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Profile"
 permalink: /profile/
 author_profile: true
 redirect_from:
