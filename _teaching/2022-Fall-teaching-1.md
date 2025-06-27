@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Fall-teaching-1
 venue: "The University of Texas at El Paso"
-date: 2022-09-01
 location: "El Paso, TX"  
 ---
 ### Semesters Taught:
