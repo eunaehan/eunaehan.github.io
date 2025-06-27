@@ -20,11 +20,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
       
-  - title: "Profile"
-    url: /profile/
-    
   - title: "Presentation"
     url: /talks/  
+
+  - title: "Profile"
+    url: /profile/
 
   # - title: "Portfolio"
   #   url: /portfolio/
