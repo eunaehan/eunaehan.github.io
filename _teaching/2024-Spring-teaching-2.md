@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-Spring-teaching-2
 venue: "The University of Texas at El Paso"
-date: 2024-09-01
 location: "El Paso, TX"  
 ---
 ### Semesters Taught:
