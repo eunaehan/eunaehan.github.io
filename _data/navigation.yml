@@ -13,12 +13,15 @@ main:
 
   - title: "Grant"
     url: /teaching/    
+
+  - title: "Service"
+    url: /teaching/    
     
   - title: "Teaching"
     url: /teaching/    
       
   - title: "Profile"
-    url: /cv/
+    url: /profile/
     
   - title: "Presentation"
     url: /talks/  
