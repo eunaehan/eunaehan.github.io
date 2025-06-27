@@ -2,7 +2,7 @@
 category: manuscripts
 title: "[Korean] A moderating effect of individualism-collectivism on the relationship between sexism and sexual assertiveness"
 collection: publications
-permalink: /publication/sexism-sexual-assertiveness-individualism-collectivism/
+permalink: /publication/2021-01-01-paper-title-number-1
 authors: "Han, E., & Kim, N."
 venue: "Korean Journal of Elementary Education"
 year: 2021
