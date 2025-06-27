@@ -1,4 +1,5 @@
 ---
+category: manuscripts
 title: "A moderating effect of individualism-collectivism on the relationship between sexism and sexual assertiveness"
 collection: publications
 permalink: /publication/sexism-sexual-assertiveness-individualism-collectivism/
