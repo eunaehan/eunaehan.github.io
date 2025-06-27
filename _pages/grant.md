@@ -1,3 +1,8 @@
+**Jump to section:**  
+[Grants](#grants)  
+[Professional Recognition, Fellowships, and Awards](#professional-recognition-fellowships-and-awards)
+
+---
 
 Grants
 =================================================
