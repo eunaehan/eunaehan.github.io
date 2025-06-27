@@ -3,7 +3,7 @@ title: "Novice school counselors’ burnout profiles and professional experience
 collection: publications
 permalink: /publication/school-counselors-burnout/
 authors: "Bardhoshi, G., Um, B., Niles, J., Li, H., Han, E., & Brown, M."
-publication: "Professional School Counseling"
+journal: "Professional School Counseling"
 year: 2022
 paperurl: "https://doi.org/10.1177/2156759X221126686"
 category: manuscripts
