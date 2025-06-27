@@ -8,6 +8,7 @@ layout: single
 **Jump to section:**  
 [Editorial Board and Review Committee Membership](#editorial-board-and-review-committee-membership)  
 [Professional Service and Leadership](#professional-service-and-leadership)
+[Professional Membership & Affiliations](#professional-membership--affiliations)
 
 ---
 
@@ -120,7 +121,7 @@ May 2019 – May 2020
 Worked as a treasurer to keep accurate financial records and prepare the annual budget in detail. During the fiscal year of the position, CSI launched a new event for fundraising, and received a CSI grant to invite Dr. Samuel Gladding to the 2020 induction ceremony.
 
 ---
-## Editorial Board and Review Committee Membership   
+## Professional Membership & Affiliations   
 
 ### International
 
