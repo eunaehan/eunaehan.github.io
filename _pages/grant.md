@@ -1,3 +1,10 @@
+---
+title: "Grant"
+permalink: /grant/
+author_profile: true
+layout: single    
+---   
+
 **Jump to section:**  
 [Grants](#grants)  
 [Professional Recognition, Fellowships, and Awards](#professional-recognition-fellowships-and-awards)
