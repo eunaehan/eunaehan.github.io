@@ -127,46 +127,6 @@ Competent in Statistical Software
 ======
 SPSS, R, Mplus  
 
-* **Advanced Practicum**  
-*Summer 2021*  
-*Training Program for Domestic Violence Counselors, Korea Women’s Hot-Line, Seoul, ROK*  
-Completed 100 hours of domestic violence counselor training program with a feminist perspective. Studied feminist approaches to domestic violence and raised critical consciousness about women’s rights. Participated in two events to advocate survivors of domestic/sexual violence.
-
-* *Fall 2020*  
-*RCE:7360:0001 Advanced Practicum in Counseling, Christine Grant Elementary, North Liberty, IA*  
-Completed 160 hours of advanced practicum at an elementary school. Provided individual counseling and led group counseling for K–6 and pre-K students. Served as a facilitator and an instructor for guidance classes.
-
-
-Work Experience
-======
-* **Professional Counselor**  
-  *Center for Adolescent Counseling & Welfare, Ward Office in Gangnam*, Seoul, South Korea  
-  **September 2016 – June 2018**  
-  - Provided individual counseling and psychological assessments for children, adolescents, and adults under supervision  
-  - Led group counseling sessions to enhance interpersonal relationships
-
-* **Professional Counselor (Part-Time)**  
-  *Center for Counseling, Nam-Seoul Church*, Seoul, South Korea  
-  **January 2017 – June 2018**  
-  - Delivered individual counseling for two cases per week under supervision
-
-* **Counseling Coordinator**  
-  *Center for Campus Life & Culture, Seoul National University of Education*, Seoul, South Korea  
-  **March 2015 – August 2016**  
-  - Coordinated university-wide counseling services and prevention programs for campus violence  
-  - Supervised three staff counselors and conducted individual and group counseling (8 cases per week)
-
-* **Graduate Assistant Counselor**  
-  *Dormitory Counseling Center, Seoul National University*, Seoul, South Korea  
-  **January 2014 – December 2014**  
-  - Provided individual and group counseling to dormitory residents  
-  - Administered psychological assessments of personality and mental health under supervision
-
-* **Intern Counselor**  
-  *Center for Campus Life & Culture, Seoul National University*, Seoul, South Korea  
-  **March 2013 – February 2015**  
-  - Conducted individual counseling on emotional, academic, and family-related issues  
-  - Facilitated five interpersonal relationship enhancement groups under supervision
 
 Additional Certifications and Training (including Psychological Testing)
 ========================================================================
