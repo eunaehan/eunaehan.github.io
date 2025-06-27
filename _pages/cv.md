@@ -85,44 +85,6 @@ Service and leadership
 
 --> 
 
-Professional Recognition, Fellowships, and Awards
-=================================================
-
-* **Inaugural ACES Grant Academy Fellow**  
-  *Association for Counselor Education and Supervision (ACES)*  
-  **September 2024**  
-  Selected to participate in the inaugural cohort of the ACES Grant Academy. Received professional development, community support, and mentorship focused on grant writing and research development during the 2024–2025 academic year.
-
-* **U.S.-Mexico Faculty Collaboration Fellowship**  
-  *The University of Texas at El Paso* (PI: Dr. Paul Carrola)  
-  **August 2023**  
-  Received $20,000 in funding to support collaborative research on domestic violence in Ciudad Juárez, including training initiatives and expanded partnerships between UTEP and UACJ.
-
-* **Dean’s Achievement Award, College of Education**  
-  *Center for Inclusive Academic Excellence, The University of Iowa*  
-  **May 2022**  
-  Selected as the recipient of the annual Dean’s Achievement Award in recognition of academic and professional excellence.
-
-* **Member of the Month**  
-  *American Counseling Association of Iowa*  
-  **August 2021**  
-  Nominated by a peer and featured as ACA of Iowa’s Member of the Month, sharing a professional bio and career vision with the community.
-
-* **2021 Beck Institute Student Scholarship Recipient**  
-  *Beck Institute*  
-  **May 2021**  
-  Awarded full scholarship to attend the Student and Early Career Professional Workshop: CBT for Depression and Suicide.
-
-* **Richard L. Sanner Graduate Scholarship**  
-  *The University of Iowa*  
-  **March 2021**  
-  Received a $2,000 scholarship supporting graduate students in the College of Education.
-
-* **Graduate Student Scholarship**  
-  *Korean Evangelical Holiness Church*  
-  **2019 – 2022**  
-  Awarded a total of $10,000 in scholarships to support emerging faith-based leaders pursuing graduate education abroad.
-
 Competent in Statistical Software  
 ======
 - SPSS
