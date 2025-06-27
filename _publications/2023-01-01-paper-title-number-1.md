@@ -3,7 +3,7 @@ title: "Using the internalized misogyny scale across sexual orientations: Measur
 collection: publications
 permalink: /publication/misogyny-scale-orientation/
 authors: "Han, E., Hoffman, L., & Wood, S.M."
-journal: "Sex Roles"
+venue: "Sex Roles"
 year: 2023
 paperurl: "https://doi.org/10.1007/s11199-023-01357-x"
 category: manuscripts
