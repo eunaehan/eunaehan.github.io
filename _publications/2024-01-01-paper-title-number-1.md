@@ -1,7 +1,7 @@
 ---
 title: "Black women in the ivory tower: Institutional oppression and intersectionality"
 collection: publications
-permalink: /publication/black-women-intersectionality/
+permalink: /publication/2024-01-01-paper-title-number-1
 authors: "Lee, I., Han, E."
 venue: "Journal of African American Studies"
 year: 2024
