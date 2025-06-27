@@ -5,9 +5,17 @@ author_profile: true
 layout: single
 ---
 
-## Editorial Board and Review Committee Membership
+**Jump to section:**  
+[Editorial Board and Review Committee Membership](#editorial-board-and-review-committee-membership)  
+[Professional Service and Leadership](#professional-service-and-leadership)
 
-### Peer-reviewed Journal
+---
+
+## 📚 Editorial Board and Review Committee Membership
+
+---
+
+### 📰 Peer-reviewed Journal
 
 **Editorial Board Member for Journal of Counseling and Development**  
 American Counseling Association (ACA)  
@@ -29,7 +37,9 @@ Nov. 2020 – Aug. 2023
 Association for Spiritual, Ethical, and Religious Values in Counseling (ASERVIC)  
 Jan. 2020 – Aug. 2023
 
-### Peer-reviewed Conference & Grant
+---
+
+### 📝 Peer-reviewed Conference & Grant
 
 **Research and Travel Grant Reviewer**  
 Graduate & Professional Student Government (GPSG) at the University of Iowa  
@@ -49,9 +59,11 @@ Sep. 2019
 
 ---
 
-## Professional Service and Leadership
+## 🤝 Professional Service and Leadership
 
-### National-level Commitment
+---
+
+### 🧭 National-level Commitment
 
 **2024–2025 AARC Emerging Leader**  
 Association for Assessment and Research in Counseling (AARC)  
@@ -63,14 +75,18 @@ Department of Counseling and Special Education (UTEP)
 Sep. 2023 – Present  
 Works as a faculty advisor to ensure the integrity of the membership application process by verifying the accuracy of every applicant's data and suitability for the honor of membership within the Society. Supports student officers to develop their leadership skills and provides advice to run the chapter.
 
-### Regional-level Commitment
+---
+
+### 📍 Regional-level Commitment
 
 **NCACES Emerging Leader**  
 North Central Association of Counselor Education and Supervision (NCACES)  
 Oct. 2020  
 Selected emerging leaders who held potential for leadership and participated in leadership training to connect with other leaders from the Association for Counselor Education and Supervision (ACES) and NCACES.
 
-### University-level Commitment
+---
+
+### 🎓 University-level Commitment
 
 **At-Large Position Member of the Council on the Status of Women**  
 Council on the Status of Women at the University of Iowa  
@@ -82,7 +98,9 @@ The Student Advisory Committee on Sexual Misconduct (SACSM) at the University of
 May 2019 – May 2022  
 Selected as a student member to join the committee, which serves as a student voice to the UI Anti-violence Coalition. The SACSM solicits input from a broad range of students to inform prevention, intervention, and policy work, helping to monitor and improve progress on university plans and commitments in the domain of sexual misconduct.
 
-### Department-level Commitment
+---
+
+### 🏛️ Department-level Commitment
 
 **Faculty Search Committee Member**  
 Department of Counseling and Special Education (UTEP)  
