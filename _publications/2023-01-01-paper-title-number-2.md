@@ -1,7 +1,7 @@
 ---
 title: "Empowering women in counseling by dismantling internalized sexism: The Feminist-Multicultural Orientation and Social Justice Competencies"
 collection: publications
-permalink: /publication/internalized-sexism-competencies/
+permalink: /publication/2023-01-01-paper-title-number-2  
 authors: "Han, E., & Lee, I."
 venue: "Journal of Mental Health Counseling"
 year: 2023
