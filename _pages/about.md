@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am **Dr. Eunae Han**, a Licensed Professional Counselor Associate (TX), National Certified Counselor (NCC), and Assistant Professor in the Department of Counseling and Special Education at the University of Texas at El Paso (UTEP). My work centers on supporting future counselors and counselor educators through trauma-informed, social justice-oriented, and feminist approaches.
+
+My research interests include community-engaged scholarship, AI-assisted counselor education, trauma-informed counseling, and feminist pedagogy in counselor training. I am passionate about bridging practice, pedagogy, and research to advance equity and wellness in both educational and clinical settings.
+
+Outside of my professional work, I enjoy practicing Kumdo/Kendo, exploring new places through travel with my husband, playing board games, and finding joy in quiet mornings with coffee and a good book.
+
+Please feel free to contact me via email (dr.eunaehan@gmail.com) if you have any questions or would like to discuss potential collaborations.
+
 
 A data-driven personal website
 ======
