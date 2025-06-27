@@ -12,23 +12,25 @@ main:
     url: /publications/
 
   - title: "Grant"
-    url: /teaching/    
-
-  - title: "Service"
-    url: /teaching/    
+    url: /grant/     
     
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Service"
+    url: /service/   
       
-  - title: "Presentation"
-    url: /talks/  
+  - title: "Counseling"
+    url: /counseling/  
 
   - title: "Profile"
     url: /profile/
 
   # - title: "Portfolio"
   #   url: /portfolio/
-    
+
+  #  - title: "Presentation"
+  #  url: /talks/  
         
   # - title: "Blog Posts"
   #   url: /year-archive/
