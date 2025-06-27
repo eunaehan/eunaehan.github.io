@@ -11,9 +11,8 @@ layout: single
 
 ---
 
-## 📚 Editorial Board and Review Committee Membership
+## 📚 Editorial Board and Review Committee Membership  
 
----
 
 ### 📰 Peer-reviewed Journal
 
@@ -59,9 +58,7 @@ Sep. 2019
 
 ---
 
-## 🤝 Professional Service and Leadership
-
----
+## 🤝 Professional Service and Leadership  
 
 ### 🧭 National-level Commitment
 
