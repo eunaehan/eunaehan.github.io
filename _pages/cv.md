@@ -125,7 +125,9 @@ Professional Recognition, Fellowships, and Awards
 
 Competent in Statistical Software  
 ======
-SPSS, R, Mplus  
+- SPSS
+- R
+- Mplus  
 
 
 Additional Certifications and Training (including Psychological Testing)
