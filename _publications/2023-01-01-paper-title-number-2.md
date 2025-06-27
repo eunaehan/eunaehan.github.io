@@ -3,7 +3,7 @@ title: "Empowering women in counseling by dismantling internalized sexism: The F
 collection: publications
 permalink: /publication/internalized-sexism-competencies/
 authors: "Han, E., & Lee, I."
-journal: "Journal of Mental Health Counseling"
+venue: "Journal of Mental Health Counseling"
 year: 2023
 paperurl: "https://doi.org/10.17744/mehc.45.3.03"
 category: manuscripts
