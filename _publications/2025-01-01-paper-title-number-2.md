@@ -3,7 +3,7 @@ title: "The effect of photovoice on teaching research to counseling students at 
 collection: publications
 permalink: /publication/photovoice-teaching-research/
 authors: "Han, E."
-journal: "Teaching and Supervision in Counseling"
+venue: "Teaching and Supervision in Counseling"
 year: 2025
 paperurl: "https://doi.org/10.7290/tsc07egda"
 category: manuscripts
