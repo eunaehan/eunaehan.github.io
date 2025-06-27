@@ -1,7 +1,7 @@
 ---
 title: "The effect of photovoice on teaching research to counseling students at a Hispanic-serving institution"
 collection: publications
-permalink: /publication/photovoice-teaching-research/
+permalink: /publication/2025-01-01-paper-title-number-2
 authors: "Han, E."
 venue: "Teaching and Supervision in Counseling"
 year: 2025
