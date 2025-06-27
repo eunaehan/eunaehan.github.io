@@ -21,6 +21,23 @@ Providing counseling services under supervision for 4 hours per month. Services 
 Completed 310 hours of supervision internship. Provided individual supervision to master's students enrolled in RCE:6352 *Internship in Clinical Mental Health Counseling* and facilitated weekly group supervision meetings.
 
 ---
+
+## Advanced Practicum  
+**Summer 2021**  
+**Site:** Training Program for Domestic Violence Counselors, Korea Women’s Hot-Line, Seoul, South Korea  
+
+Completed 100 hours of domestic violence counselor training with a feminist perspective. Studied feminist approaches to domestic violence and raised critical consciousness about women’s rights. Participated in two events to advocate for survivors of domestic and sexual violence.
+
+---
+
+## Advanced Practicum in Counseling  
+**Fall 2020**  
+**Site:** Christine Grant Elementary, North Liberty, Iowa  
+**Course:** RCE:7360:0001  
+
+Completed 160 hours of advanced practicum at an elementary school. Provided individual counseling and led group counseling sessions for K–6 and pre-K students. Served as a facilitator and instructor for guidance classes.
+
+---
 ## Professional Counselor  
 **September 2016 – June 2018**  
 **Site:** Center for Adolescent Counseling & Welfare, Ward Office in Gangnam, Seoul, South Korea  
