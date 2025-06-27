@@ -8,6 +8,5 @@ date: 2022-01-01
 location: "Iowa City, IA"
 ---
 
-Spring 2022 under the supervision of Dr. John Wadsworth and Dr. Leslie Margolin, Ph.D.  
-======
+**Spring 2022** under the supervision of Dr. John Wadsworth and Dr. Leslie Margolin, Ph.D.  
 This course was designed for undergraduate students to provide evidence-based and best practice information so that students can work more effectively with people who have been exposed to acute and chronic traumas and/or are at risk of developing traumatic stress reactions. The course focuses on the psychological study and understanding of the biological, neurological, psychological, and relational impacts of trauma across the lifespan from a multidimensional and multidisciplinary perspective.
