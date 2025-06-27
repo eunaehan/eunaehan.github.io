@@ -3,7 +3,7 @@ title: "Researcher identity development among women of color in counselor educat
 collection: publications
 permalink: /publication/researcher-identity-development/
 authors: "Han, E., Lee, I., Jha, P."
-journal: "Counselor Education and Supervision"
+venue: "Counselor Education and Supervision"
 year: 2025
 status: "accepted"
 category: manuscripts
