@@ -1,4 +1,5 @@
 ---
+category: manuscripts
 title: "Understanding the influence of two types of ruminations on posttraumatic growth"
 collection: publications
 permalink: /publication/two-types-of-ruminations-and-posttraumatic-growth/
