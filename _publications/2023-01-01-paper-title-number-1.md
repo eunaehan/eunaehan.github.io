@@ -1,7 +1,7 @@
 ---
 title: "Using the internalized misogyny scale across sexual orientations: Measurement invariance and item factor analysis"
 collection: publications
-permalink: /publication/misogyny-scale-orientation/
+permalink: /publication/2023-01-01-paper-title-number-1 
 authors: "Han, E., Hoffman, L., & Wood, S.M."
 venue: "Sex Roles"
 year: 2023
