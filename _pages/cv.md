@@ -60,7 +60,7 @@ Professional Certification and Licensure
   Korean Counseling Association, South Korea  
   **2014 – Present**
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -82,6 +82,8 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+--> 
 
 Professional Recognition, Fellowships, and Awards
 =================================================
@@ -124,20 +126,6 @@ Professional Recognition, Fellowships, and Awards
 Competent in Statistical Software  
 ======
 SPSS, R, Mplus  
-
-Clinical Experience
-===================  
-
-* **LPC Associate Practice under Supervision**  
-*Fall 2023 – Present*  
-*Associated Behavioral and Trauma Specialties (ABTS), El Paso, TX*  
-Supervisors: Gerardo Rosas (#63565) and Zul Estrada (#65059)  
-Providing counseling services with receiving 4 hours of supervision per month. Intake, psychological testing, individual counseling including child, adolescents, and adults, couple and marriage counseling, and family counseling is being provided.
-
-* **Supervision Internship**  
-*Spring 2021*  
-*RCE:7455 Internship in Supervision, The University of Iowa, Iowa City, IA*  
-Completed 310 hours of supervision internship. Provided individual supervision for master’s students enrolled in RCE:6352 Internship in Clinical Mental Health and facilitated group supervision meetings.
 
 * **Advanced Practicum**  
 *Summer 2021*  
