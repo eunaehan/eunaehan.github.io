@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "The University of Iowa"
-date: 2022-01-01
 location: "Iowa City, IA"
 ---
 ### Semester Taught:
