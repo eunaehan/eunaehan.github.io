@@ -60,6 +60,24 @@ Professional Certification and Licensure
   Korean Counseling Association, South Korea  
   **2014 – Present**
 
+
+Additional Certifications and Training (including Psychological Testing)
+========================================================================
+
+- Enhanced Cognitive Behaviour Therapy (CBT-E) for Eating Disorders  
+- The Myers & Briggs Type Indicator (MBTI)  
+- The Minnesota Multiphasic Personality Inventory (MMPI-2/A)  
+- The Temperament and Character Inventory (TCI)  
+- The Korean Enneagram (KE)
+
+
+Competent in Statistical Software  
+======
+- SPSS
+- R
+- Mplus
+
+
 <!-- 
 Publications
 ======
@@ -85,19 +103,3 @@ Service and leadership
 
 --> 
 
-Competent in Statistical Software  
-======
-- SPSS
-- R
-- Mplus  
-
-
-Additional Certifications and Training (including Psychological Testing)
-========================================================================
-
-- Enhanced Cognitive Behaviour Therapy (CBT-E) for Eating Disorders  
-- The Myers & Briggs Type Indicator (MBTI)  
-- The Minnesota Multiphasic Personality Inventory (MMPI-2/A)  
-- The Temperament and Character Inventory (TCI)  
-- The Korean Enneagram (KE)
- 
