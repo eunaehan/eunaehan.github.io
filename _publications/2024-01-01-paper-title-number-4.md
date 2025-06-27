@@ -1,7 +1,7 @@
 ---
 title: "Initial validation of a short version of the PERMA profiler in a national sample of rural veterans"
 collection: publications
-permalink: /publication/perma-rural-veterans/
+permalink: /publication/2024-01-01-paper-title-number-4
 authors: "Umucu, E., Granger, T., Pan, D., McGee, T., Han, E., Yates, J., Barnas, J., Barter, C., & Lee, B."
 venue: "Frontiers in Public Health"
 year: 2024
