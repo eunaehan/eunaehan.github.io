@@ -9,6 +9,19 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% if site.publication_category %}
+<div style="margin: 1em 0;">
+  <strong>Jump to section:</strong>
+  <ul style="list-style-type: none; padding-left: 0; margin-top: 0.5em;">
+    {% for category in site.publication_category %}
+      <li style="margin-bottom: 0.3em;">
+        <a href="#{{ category[1].title | downcase | replace: ' ', '-' }}">{{ category[1].title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
