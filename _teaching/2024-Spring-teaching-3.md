@@ -2,7 +2,7 @@
 title: "EDPC 5322 Mental Health Counseling "
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-Spring-teaching-1
+permalink: /teaching/2024-Spring-teaching-3
 venue: "University of Texas at El Paso"  
 location: "El Paso, TX"  
 ---
