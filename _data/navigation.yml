@@ -12,9 +12,9 @@ main:
     url: /profile/
     
   - title: "Publications"
-    url: /publications/
+    url: /publications/  
 
-  - title: "Grant"
+  - title: "Grant"  
     url: /grant/     
     
   - title: "Teaching"
