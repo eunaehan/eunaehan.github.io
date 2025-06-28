@@ -8,7 +8,6 @@ layout: single
 **Jump to section:**  
 [Editorial Board and Review Committee Membership](#editorial-board-and-review-committee-membership)  
 [Professional Service and Leadership](#professional-service-and-leadership)  
-[Professional Membership & Affiliations](#professional-membership--affiliations)  
 [Workshops](#workshops)  
 
 ---
