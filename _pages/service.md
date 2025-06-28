@@ -121,32 +121,6 @@ Department of Rehabilitation and Counselor Education (UI)
 May 2019 – May 2020  
 Worked as a treasurer to keep accurate financial records and prepare the annual budget in detail. During the fiscal year of the position, CSI launched a new event for fundraising, and received a CSI grant to invite Dr. Samuel Gladding to the 2020 induction ceremony.
 
----
-## Professional Membership & Affiliations   
-
-### International
-
-- **Chi Sigma Iowa Counseling Academic and Professional Honor Society** (2019–present)  
-- **Korean Counseling Association** (2013–present)  
-- **Korean Psychological Association** (2017–2025)  
-- **International Society for Traumatic Stress Studies** (2018–2019)
-
-### National
-
-- **Association for Assessment and Research in Counseling** (2020–present)  
-- **Association for Counselor Education and Supervision** (2018–present)  
-- **American Counseling Association** (2018–present)  
-- **American Mental Health Counselors Association** (2021–2022)  
-- **Association for Women in Psychology** (2021–2022)  
-- **American College Counseling Association** (2021–2022)  
-- **Association for Spiritual, Ethical, and Religious Values in Counseling** (2020–2022)
-
-### Regional & Local
-
-- **Southern Association for Counselor Education and Supervision** (2022–present)  
-- **Texas Counseling Association** (2022–present)  
-- **North Central Association for Counselor Education and Supervision** (2019–2022)  
-- **American Counseling Association of Iowa** (2018–2022)
 
 ---
 
