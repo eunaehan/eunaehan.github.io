@@ -3,10 +3,10 @@ title: "EDPC 5345 Abnormal Human Behavior "
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-Spring-teaching-2
-venue: "The University of Texas at El Paso"
+venue: "University of Texas at El Paso"
 location: "El Paso, TX"  
 ---
-### Semesters Taught:
+Semesters Taught:
 - Spring 2025 
 - Fall 2024  
 
