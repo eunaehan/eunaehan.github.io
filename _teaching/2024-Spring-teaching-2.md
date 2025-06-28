@@ -6,6 +6,7 @@ permalink: /teaching/2024-Spring-teaching-2
 venue: "University of Texas at El Paso"
 location: "El Paso, TX"  
 ---
+ 
 Semesters Taught:
 - Spring 2025 
 - Fall 2024  
