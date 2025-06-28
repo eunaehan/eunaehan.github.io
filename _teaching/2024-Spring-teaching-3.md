@@ -2,7 +2,7 @@
 title: "EDPC 5310 Applied Research Design for Counseling and Special Education"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2023-Spring-teaching-1
+permalink: /teaching/2024-Spring-teaching-3
 venue: "University of Texas at El Paso"
 location: "El Paso, TX"
 ---
