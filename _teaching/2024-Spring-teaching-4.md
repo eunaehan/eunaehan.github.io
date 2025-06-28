@@ -2,7 +2,7 @@
 title: "EDPC 5345 Abnormal Human Behavior "
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-Spring-teaching-2
+permalink: /teaching/2024-Spring-teaching-4
 venue: "University of Texas at El Paso"
 location: "El Paso, TX"  
 ---
