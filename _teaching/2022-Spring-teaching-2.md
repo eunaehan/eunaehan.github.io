@@ -3,7 +3,7 @@ title: "EDPC 5335 Principles of Appraisal and Assessment "
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-Spring-teaching-2
-venue: "The University of Texas at El Paso"
+venue: "University of Texas at El Paso"
 location: "El Paso, TX"  
 ---
 Semesters Taught:
