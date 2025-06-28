@@ -10,7 +10,7 @@ layout: single
 **Supervisors:** Gerardo Rosas and Zul Estrada   
 **Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, TX  
 
-Providing counseling services under supervision for 4 hours per month. Services include intake interviews, psychological testing, and individual counseling for children, adolescents, and adults. Also provide couple and marriage counseling, as well as family counseling.
+Providing counseling services under supervision. Services include intake interviews, psychological testing, and individual counseling for children, adolescents, and adults. Also provide couple and marriage counseling, as well as family counseling.
 
 ---
 
@@ -18,7 +18,7 @@ Providing counseling services under supervision for 4 hours per month. Services 
 **Spring 2021** — *RCE:7455 Internship in Supervision*  
 **The University of Iowa, Iowa City, IA**  
 
-Completed 310 hours of supervision internship. Provided individual supervision to master's students enrolled in RCE:6352 *Internship in Clinical Mental Health Counseling* and facilitated weekly group supervision meetings.
+Provided individual supervision to master's students enrolled in RCE:6352 *Internship in Clinical Mental Health Counseling* and facilitated weekly group supervision meetings.
 
 ---
 
@@ -35,14 +35,14 @@ Completed 100 hours of domestic violence counselor training with a feminist pers
 **Site:** Christine Grant Elementary, North Liberty, Iowa  
 **Course:** RCE:7360:0001  
 
-Completed 160 hours of advanced practicum at an elementary school. Provided individual counseling and led group counseling sessions for K–6 and pre-K students. Served as a facilitator and instructor for guidance classes.
+Provided individual counseling and led group counseling sessions for K–6 and pre-K students. Served as a facilitator and instructor for guidance classes.
 
 ---
 ## Professional Counselor  
 **September 2016 – June 2018**  
 **Site:** Center for Adolescent Counseling & Welfare, Ward Office in Gangnam, Seoul, South Korea  
 
-Provided individual counseling and psychological assessments for children, adolescents, and adults under supervision. Led group counseling sessions to enhance interpersonal relationships.
+Provided individual counseling and psychological assessments for children, adolescents, and adults. Led group counseling sessions to enhance interpersonal relationships.
 
 ---
 
@@ -50,7 +50,7 @@ Provided individual counseling and psychological assessments for children, adole
 **January 2017 – June 2018**  
 **Site:** Center for Counseling, Nam-Seoul Church, Seoul, South Korea  
 
-Delivered individual counseling for two cases per week under supervision.
+Delivered individual counseling.
 
 ---
 
@@ -58,7 +58,7 @@ Delivered individual counseling for two cases per week under supervision.
 **March 2015 – August 2016**  
 **Site:** Center for Campus Life & Culture, Seoul National University of Education, Seoul, South Korea  
 
-Coordinated university-wide counseling services and prevention programs for campus violence. Supervised three staff counselors and conducted individual and group counseling (8 cases per week).
+Coordinated university-wide counseling services and prevention programs for campus violence. Supervised three staff counselors and conducted individual and group counseling.
 
 ---
 
@@ -74,4 +74,4 @@ Provided individual and group counseling to dormitory residents. Administered ps
 **March 2013 – February 2015**  
 **Site:** Center for Campus Life & Culture, Seoul National University, Seoul, South Korea  
 
-Conducted individual counseling on emotional, academic, and family-related issues. Facilitated five interpersonal relationship enhancement groups under supervision.
+Conducted individual counseling on emotional, academic, and family-related issues. Facilitated interpersonal relationship enhancement groups under supervision.
