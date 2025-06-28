@@ -6,7 +6,8 @@ permalink: /teaching/2023-Spring-teaching-1
 venue: "University of Texas at El Paso"
 location: "El Paso, TX"
 ---
-Semesters Taught:
+  
+Semesters Taught: 
 - Fall 2024
 - Spring, Summer 2023  
 
