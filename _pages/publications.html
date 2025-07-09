@@ -34,7 +34,12 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <!--<h2>{{ category[1].title }}</h2><hr /> -->
-        <h2 id="{{ category[1].title | downcase | replace: ' ', '-' }}">{{ category[1].title }}</h2><hr />
+        <!--<h2 id="{{ category[1].title | downcase | replace: ' ', '-' }}">{{ category[1].title }}</h2><hr />-->
+        {% assign category_posts = site.publications | where: "category", category[0] %}
+        <h2 id="{{ category[1].title | downcase | replace: ' ', '-' }}">
+          {{ category[1].title }} ({{ category_posts | size }})
+        </h2>
+        <hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
