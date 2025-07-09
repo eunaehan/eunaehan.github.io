@@ -2,7 +2,6 @@
 permalink: /
 title: "Welcome!"
 author_profile: true
-layout: default
 redirect_from: 
   - /about/
   - /about.html
@@ -17,44 +16,3 @@ Outside of my professional work, I enjoy practicing Kumdo/Kendo, exploring new p
 Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaehan@gmail.com</span>) if you have any questions or would like to discuss potential collaborations.
 
 ![CSI](https://github.com/user-attachments/assets/8d9e0882-0d4e-4136-8546-e4972c0b74dc)  
-
-## Publications per Year
-
-<p>
-  Annual Publication Overview:
-</p>
-
-<canvas id="pubsPerYear" width="600" height="400"></canvas>
-
-<script>
-  // 1) Group your collection by year
-  {% assign pubs_by_year = site.publications | group_by: "year" | sort: "name" %}
-  // 2) Build JS labels & data arrays
-  const labels = [{% for grp in pubs_by_year %}"{{ grp.name }}"{% if forloop.last == false %}, {% endif %}{% endfor %}];
-  const data   = [{% for grp in pubs_by_year %}{{ grp.items | size }}{% if forloop.last == false %}, {% endif %}{% endfor %}];
-
-  // 3) Render the Chart.js bar chart
-  const ctx = document.getElementById('pubsPerYear').getContext('2d');
-  new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: labels,
-      datasets: [{
-        label: 'Publications',
-        data: data,
-        // optional styling:
-        // backgroundColor: 'rgba(54, 162, 235, 0.5)',
-        // borderColor: 'rgba(54, 162, 235, 1)',
-        // borderWidth: 1
-      }]
-    },
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true,
-          precision: 0
-        }
-      }
-    }
-  });
-</script>
