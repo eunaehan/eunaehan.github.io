@@ -7,5 +7,5 @@ venue: "Journal of Counselor Preparation and Supervision"
 year: 2025
 paperurl: ""
 category: manuscripts
-citation: "Han, E., Shin, J. (2025). Understanding Artificial Intelligence and Machine Learning: Foundational Concepts for Counselor Education. Journal of Counselor Preparation and Supervision."
+citation: "Han, E. & Shin, J. (2025). Understanding Artificial Intelligence and Machine Learning: Foundational Concepts for Counselor Education. Journal of Counselor Preparation and Supervision, 19(3), 1-15."
 ---
