@@ -56,8 +56,8 @@ Grants
   Enhancing Post-Traumatic Growth in the Paso del Norte Region: Initiating a Partnership between UTEP and Community Counseling Centers.  
   The UTEP Center for Investigator Training and Community Engagement in Transdisciplinary Minority Health Disparities Research Pilot Project Program, University of Texas at El Paso (UTEP). Total Award: $50,000.
 
-* **Principal Investigator (PI): Han, E.**
-* Co-Investigator: Kim, J.
+* **Principal Investigator (PI): Han, E.**  
+  Co-Investigator: Kim, J.  
   **2025–2026**  
   Using EEG to Examine Cognitive and Emotional Responses to Erroneous AI-Based Suicide Risk Predictions.  
   Venture Fund, College of Education, University of Texas at El Paso (UTEP). Total Award: $5,000.
