@@ -7,7 +7,7 @@ venue: "University of Texas at El Paso"
 location: "El Paso, TX"  
 ---
 Semesters Taught:
-- Spring, Summer 2025
+- Spring, Summer, Fall 2025
 - Spring 2024
 - Spring, Summer, Fall 2023  
 - Fall 2022
