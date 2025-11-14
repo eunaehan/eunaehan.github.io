@@ -11,7 +11,7 @@ redirect_from:
 Position
 ======
 * **Assistant Professor (Tenure-Track)**  
-  *University of Texas at El Paso*, El Paso, TX  
+  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, El Paso, TX  
   *Department of Counseling and Special Education*  
   **September 2022 – Present**
 
