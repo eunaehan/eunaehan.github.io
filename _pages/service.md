@@ -72,6 +72,9 @@ Selected emerging leaders who held potential for leadership and participated in 
 Department of Counseling and Special Education (UTEP)  
 Sep. 2023 – Present  
 Works as a faculty advisor to ensure the integrity of the membership application process by verifying the accuracy of every applicant's data and suitability for the honor of membership within the Society. Supports student officers to develop their leadership skills and provides advice to run the chapter.
+<p align="center">
+  <img src="/images/CSI.jpg" alt="CSI_2025" width="500"/>
+</p>
 
 ---
 
