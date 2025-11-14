@@ -42,7 +42,7 @@ Primary Research Interests
 
 Professional Certification and Licensure
 ========================================
-* **Licensed Professional Counselor ** – *EMDR Trained*   
+* **Licensed Professional Counselor** – *EMDR Trained*   
   Texas State Board of Examiners of Professional Counselors, United States  
   **2025 – Present**
 
