@@ -19,6 +19,10 @@ Providing counseling services as LPC. Services include intake interviews, psycho
 
 Providing counseling services under supervision. Services include intake interviews, psychological testing, and individual counseling for children, adolescents, and adults. Also provide couple and marriage counseling, as well as family counseling.
 
+<p align="Left">
+  <img src="/images/ABTS_Best_of_El Paso_2025.jpg" alt="ABTS_Best of El Paso_2025" width="600"/>
+  <figcaption><em>ABTS won Best of El Paso 2025 in the Best Therapists/Counselors category.</em></figcaption>
+</p>
 ---
 
 ## Supervision Internship  
