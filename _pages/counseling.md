@@ -5,8 +5,15 @@ author_profile: true
 layout: single
 ---
 
+## Licensed Professional Counselor (Texas)
+**Fall 2025 – Present**  
+**Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, TX  
+
+Providing counseling services as LPC. Services include intake interviews, psychological testing, and individual counseling for children, adolescents, and adults. Also provide couple and marriage counseling, as well as family counseling.
+
+---
 ## LPC Associate Practice under Supervision  
-**Fall 2023 – Present**  
+**Fall 2023 – Fall 2025**  
 **Supervisors:** Gerardo Rosas and Zul Estrada   
 **Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, TX  
 
