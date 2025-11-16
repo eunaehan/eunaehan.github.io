@@ -11,7 +11,7 @@ redirect_from:
 Position
 ======
 * **Assistant Professor (Tenure-Track)**  
-  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, El Paso, Texas, United States  
+  <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, United States  
   *Department of Counseling and Special Education*  
   **September 2022 – Present**
 
@@ -136,6 +136,9 @@ Professional Membership & Affiliations
   *2022 – Present*
 
 * **Texas Counseling Association**  
+  *2022 – Present*
+  
+* **Texas Association for Counselor Education and Supervision**  
   *2022 – Present*
 
 * **North Central Association for Counselor Education and Supervision**  
