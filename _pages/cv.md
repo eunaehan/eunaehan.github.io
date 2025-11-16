@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Position
+Position 
 ======
 * **Assistant Professor (Tenure-Track)**  
   <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, United States  
