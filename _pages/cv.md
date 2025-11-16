@@ -48,7 +48,7 @@ Professional Certification and Licensure
 ========================================
 * **Licensed Professional Counselor** – *EMDR Trained*   
   Texas State Board of Examiners of Professional Counselors, United States  
-  *LPC-Associate (2023-2025)*  
+  *LPC Associate (2023-2025)*  
   **2025 – Present**
 
 * **National Certified Counselor**  
