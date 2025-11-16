@@ -70,7 +70,9 @@ Professional Certification and Licensure
 
 Additional Certifications and Training (including Psychological Testing)
 ========================================================================
-
+- Basic Eye Movement Desensitization and Reprocessing (EMDR) Therapy Training 
+- EMDR Therapy Protocols for Early Intervention and Ongoing Traumatic Stress (Advanced) 
+- Domestic Violence Counselors at Korea Women’s Hot-Line 
 - Enhanced Cognitive Behaviour Therapy (CBT-E) for Eating Disorders  
 - The Myers & Briggs Type Indicator (MBTI)  
 - The Minnesota Multiphasic Personality Inventory (MMPI-2/A)  
@@ -127,6 +129,9 @@ Professional Membership & Affiliations
 
 ### Regional & Local
 
+* **Texas Association for Assessment and Research in Counseling**  
+  *2025 – Present*
+  
 * **Southern Association for Counselor Education and Supervision**  
   *2022 – Present*
 
