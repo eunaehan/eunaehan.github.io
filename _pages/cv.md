@@ -48,12 +48,8 @@ Professional Certification and Licensure
 ========================================
 * **Licensed Professional Counselor** – *EMDR Trained*   
   Texas State Board of Examiners of Professional Counselors, United States  
+  *LPC-Associate (2023-2025)*  
   **2025 – Present**
-
-* **Licensed Professional Counselor Associate** – *EMDR Trained*  
-  *Supervised by Gerardo Rosas and Zul Estrada*  
-  Texas State Board of Examiners of Professional Counselors, United States  
-  **2023 – 2025**
 
 * **National Certified Counselor**  
   National Board for Certified Counselors, United States  
