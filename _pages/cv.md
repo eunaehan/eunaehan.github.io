@@ -18,12 +18,12 @@ Position
 Education
 ======
 * **Ph.D. in Education**  
-<img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States (CACREP Accredited)  
-  *Area of Specialization: Counselor Education and Supervision*  
+<img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States   
+  *Area of Specialization: Counselor Education and Supervision (CACREP Accredited)*  
   **May 2022**
 
 * **M.A. in Education**  
-<img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States (CACREP Accredited)  
+<img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="22" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States  
   *Area of Specialization: Educational Measurement and Statistics*  
   **May 2022**
 
