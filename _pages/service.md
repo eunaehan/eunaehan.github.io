@@ -65,7 +65,7 @@ September 2019
 
 **Conference Committee Member**   
 Association for Assessment and Research in Counseling (AARC)   
-October 2025 – September 20226  
+October 2025 – September 2026  
 Serves on the conference committee to help organize the upcoming AARC Conference in Dallas, TX, in collaboration with the TAARC leadership board.  
 
 **2024–2025 AARC Emerging Leader**  
@@ -86,13 +86,13 @@ Works as a faculty advisor to ensure the integrity of the membership application
 ### 📍 Regional-level Commitment
 
 **TAARC Member at Large**  
-Texas Association for Assessment and Research in Counseling (TAARC) 
-September 2025 – August 2026 
+Texas Association for Assessment and Research in Counseling (TAARC)  
+September 2025 – August 2026   
 Serves as a representative voice for the general membership, ensuring that diverse perspectives are brought to organizational discussions and decisions.
 
-**TAARC Emerging Leaders Program Lead**
-Texas Association for Assessment and Research in Counseling (TAARC) 
-September 2025 – August 2026 
+**TAARC Emerging Leaders Program Lead**  
+Texas Association for Assessment and Research in Counseling (TAARC)   
+September 2025 – August 2026   
 Facilitates and co-leads (with Dr. Stephen Lenz) group mentoring for four TAARC Emerging Leaders, including two assistant professors and two doctoral students. Coordinate individual mentoring pairs and guide the overall structure of the Emerging Leaders Program.  
 
 **NCACES Emerging Leader**  
