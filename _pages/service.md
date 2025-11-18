@@ -148,6 +148,12 @@ Worked as a treasurer to keep accurate financial records and prepare the annual 
 
 ## Workshops  
 
+
+**Wiltshire, C. A., Han, E., & Simon, J.** (May 2025)  
+*2025 IES Early Childhood Educator Community Wellness Gathering.*  
+Community Engagement Workshop supported by the Institute of Education Sciences (IES), El 
+Paso, TX.
+
 ### U.S.–Mexico Counseling Profession Community Workshop Series
 
 - **Han, E.** (November 2024)  
@@ -165,4 +171,12 @@ Worked as a treasurer to keep accurate financial records and prepare the annual 
 - **Han, E.** (October 2023)  
   *Assessment Practices in Mental Health Counseling in the U.S.*  
   Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
+  
 
+**Han, E.** (April 2023)  
+*Dismantling Sexism by Understanding Internalized Sexism.*
+Colloquium Workshop hosted by UTEP College of Liberal Arts, Department of Psychology. 
+
+**Han, E.** (Feburary 2023)  
+*All About Relationships: Basic SPSS Functions for Understanding Data & Correlation Analysis.*
+Workshop hosted by UTEP College of Education, Office of Research Support.
