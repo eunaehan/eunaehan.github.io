@@ -15,43 +15,6 @@ author_profile: true
 
 {% for item in news_items %}
 
-{% if item.type %}
-  {% assign t = item.type | downcase %}
-
-  {% if t == "publication" %}
-    {% assign color = "#2b6cb0" %}
-  {% elsif t == "newsletter" %}
-    {% assign color = "#2f855a" %}
-  {% elsif t == "talk" %}
-    {% assign color = "#805ad5" %}
-  {% elsif t == "presentation" %}
-    {% assign color = "#b7791f" %}
-  {% elsif t == "award" %}
-    {% assign color = "#c53030" %}
-  {% elsif t == "grant" %}
-    {% assign color = "#1a202c" %}
-  {% elsif t == "media" %}
-    {% assign color = "#2c7a7b" %}
-  {% elsif t == "service" %}
-    {% assign color = "#4a5568" %}
-  {% else %}
-    {% assign color = "#555" %}
-  {% endif %}
-
-  <span style="
-    display: inline-block;
-    font-size: 0.75em;
-    font-weight: 600;
-    letter-spacing: 0.06em;
-    color: {{ color }};
-    border: 1px solid {{ color }};
-    padding: 3px 10px;
-    border-radius: 14px;
-    margin-bottom: 2px;">
-    {{ item.type | upcase }}
-  </span>
-{% endif %}
-
 {% comment %} ---------- Anchor slug for direct linking ---------- {% endcomment %}
 {% assign slug = item.date | append: "-" | append: item.title
   | downcase
@@ -70,18 +33,54 @@ author_profile: true
   | replace: " ", "-"
 %}
 
-<h3 id="{{ slug }}" style="
-  margin-top: 6px;
-  margin-bottom: 2px;
-  scroll-margin-top: 90px;
-">
-  {{ item.title }}
-</h3>
+<div id="{{ slug }}" style="scroll-margin-top: 110px;">
 
+  {% if item.type %}
+    {% assign t = item.type | downcase %}
 
-<span style="color: #666; font-size: 0.95em;">
-  {{ item.date | date: "%B %d, %Y" }}
-</span>
+    {% if t == "publication" %}
+      {% assign color = "#2b6cb0" %}
+    {% elsif t == "newsletter" %}
+      {% assign color = "#2f855a" %}
+    {% elsif t == "talk" %}
+      {% assign color = "#805ad5" %}
+    {% elsif t == "presentation" %}
+      {% assign color = "#b7791f" %}
+    {% elsif t == "award" %}
+      {% assign color = "#c53030" %}
+    {% elsif t == "grant" %}
+      {% assign color = "#1a202c" %}
+    {% elsif t == "media" %}
+      {% assign color = "#2c7a7b" %}
+    {% elsif t == "service" %}
+      {% assign color = "#4a5568" %}
+    {% else %}
+      {% assign color = "#555" %}
+    {% endif %}
+
+    <span style="
+      display: inline-block;
+      font-size: 0.75em;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      color: {{ color }};
+      border: 1px solid {{ color }};
+      padding: 3px 10px;
+      border-radius: 14px;
+      margin-bottom: 2px;">
+      {{ item.type | upcase }}
+    </span>
+  {% endif %}
+
+  <h3 style="margin-top: 6px; margin-bottom: 2px;">
+    {{ item.title }}
+  </h3>
+
+  <span style="color: #666; font-size: 0.95em;">
+    {{ item.date | date: "%B %d, %Y" }}
+  </span>
+
+</div>
 
 {% if item.description %}
 <p>{{ item.description }}</p>
