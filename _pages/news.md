@@ -66,8 +66,8 @@ author_profile: true
 <img src="{{ item.image }}"
      alt="{{ item.title }}"
      style="
-       width: 250px;
-       height: 250px;
+       width: 300px;
+       height: 300px;
        object-fit: cover;
        border-radius: 1px;
        margin-bottom: 1px;
