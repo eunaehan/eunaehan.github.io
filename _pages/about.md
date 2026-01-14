@@ -23,8 +23,27 @@ Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaeha
 
 <ul style="margin: 0; padding-left: 1.2em;">
   {% for item in recent_news limit:3 %}
+
+    {% comment %} --- must match slug logic in news.md --- {% endcomment %}
+    {% assign slug = item.date | append: "-" | append: item.title
+      | downcase
+      | replace: "&", "and"
+      | replace: "—", "-"
+      | replace: "–", "-"
+      | replace: ":", ""
+      | replace: ".", ""
+      | replace: ",", ""
+      | replace: "'", ""
+      | replace: '"', ""
+      | replace: "(", ""
+      | replace: ")", ""
+      | replace: "/", "-"
+      | replace: "?", ""
+      | replace: " ", "-"
+    %}
+
     <li style="margin-bottom: 0.8em;">
-      <a href="{{ '/news/' | relative_url }}" style="text-decoration: none;">
+      <a href="{{ '/news/#' | append: slug | relative_url }}" style="text-decoration: none;">
         <strong>{{ item.title }}</strong>
       </a><br>
       <span style="color:#666; font-size:0.95em;">
@@ -32,6 +51,7 @@ Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaeha
         {% if item.type %} · {{ item.type }}{% endif %}
       </span>
     </li>
+
   {% endfor %}
 </ul>
 
