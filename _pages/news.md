@@ -34,7 +34,7 @@ author_profile: true
 {% if item.links %}
 <p>
   {% for l in item.links %}
-    <a href="{{ l.url }}">{{ l.label }}</a>{% unless forloop.last %} · {% endunless %}
+    <a href="{{ l.url }}" target="_blank" rel="noopener noreferrer">{{ l.label }}</a>{% unless forloop.last %} · {% endunless %}
   {% endfor %}
 </p>
 {% endif %}
