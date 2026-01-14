@@ -37,7 +37,8 @@
 - date: 2025-12-16
   type: "Award"
   title: "2025 Best of El Paso"
-  description: "ABTS (Associated Behavioral and Trauma Specialties) was voted the #1 Best Counselor/Therapist in the 2025 Best of El Paso awards"
+  description: "ABTS (Associated Behavioral and Trauma Specialties) was voted the #1 Best Counselor/Therapist in the 2025 Best of El Paso awards."
+  links:
     - label: "Magazine (PDF)"
       url: "/files/news/TAARC-Newsletter-2025-11-16.pdf"
   image: /images/news/ABTS_Best_of_El Paso_2025.jpg
