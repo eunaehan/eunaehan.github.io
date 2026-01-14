@@ -40,7 +40,7 @@
   description: "ABTS (Associated Behavioral and Trauma Specialties) was voted the #1 Best Counselor/Therapist in the 2025 Best of El Paso awards."
   links:
     - label: "Magazine (PDF)"
-      url: "/files/news/2025_Best of El Paso_ABTS.pdf"
+      url: "/images/news/2025_Best of El Paso_ABTS.pdf"
   image: /images/news/ABTS_Best_of_El Paso_2025.jpg
 
 - date: 2025-11-16
@@ -49,7 +49,7 @@
   description: "Featured in TAARC’s Newsletter: Members Research Profile, highlighting collaborative work evaluating the Spanish Machismo Measure with Mexican men and its implications for counseling and cross-border mental health research."
   links:
     - label: "Newsletter (PDF)"
-      url: "/files/news/TAARC-Newsletter-2025-11-16.pdf"
+      url: "/images/news/TAARC-Newsletter-2025-11-16.pdf"
     - label: "Full article"
       url: "https://www.tandfonline.com/doi/full/10.1080/07481756.2024.2401438"
   image: /images/news/20251116_taarc_newsletter.png
