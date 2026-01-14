@@ -15,4 +15,26 @@ Outside of my professional work, I enjoy practicing Kumdo/Kendo, exploring new p
 
 Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaehan@gmail.com</span>) if you have any questions or would like to discuss potential collaborations.
 
-![CSI](https://github.com/user-attachments/assets/8d9e0882-0d4e-4136-8546-e4972c0b74dc)  
+<hr style="margin: 2.5em 0 1.5em 0; border: none; border-top: 1px solid #e5e5e5;">
+
+<h2 style="margin-bottom: 0.6em;">Highlights</h2>
+
+{% assign recent_news = site.data.news | sort: "date" | reverse %}
+
+<ul style="margin: 0; padding-left: 1.2em;">
+  {% for item in recent_news limit:3 %}
+    <li style="margin-bottom: 0.8em;">
+      <a href="{{ '/news/' | relative_url }}" style="text-decoration: none;">
+        <strong>{{ item.title }}</strong>
+      </a><br>
+      <span style="color:#666; font-size:0.95em;">
+        {{ item.date | date: "%B %d, %Y" }}
+        {% if item.type %} · {{ item.type }}{% endif %}
+      </span>
+    </li>
+  {% endfor %}
+</ul>
+
+<p style="margin-top: 0.8em;">
+  <a href="{{ '/news/' | relative_url }}">View all news →</a>
+</p>
