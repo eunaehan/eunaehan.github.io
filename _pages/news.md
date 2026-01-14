@@ -66,11 +66,11 @@ author_profile: true
 <img src="{{ item.image }}"
      alt="{{ item.title }}"
      style="
-       width: 220px;
-       height: 140px;
+       width: 250px;
+       height: 250px;
        object-fit: cover;
-       border-radius: 6px;
-       margin-bottom: 12px;
+       border-radius: 1px;
+       margin-bottom: 1px;
      ">
 {% endif %}
 
