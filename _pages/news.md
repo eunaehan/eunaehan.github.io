@@ -10,15 +10,37 @@ author_profile: true
 {% for item in news_items %}
 
 {% if item.type %}
+{% assign t = item.type | downcase %}
+
+{% if t == "publication" %}
+  {% assign color = "#2b6cb0" %}   {# blue #}
+{% elsif t == "newsletter" %}
+  {% assign color = "#2f855a" %}   {# green #}
+{% elsif t == "talk" %}
+  {% assign color = "#805ad5" %}   {# purple #}
+{% elsif t == "presentation" %}
+  {% assign color = "#b7791f" %}   {# amber #}
+{% elsif t == "award" %}
+  {% assign color = "#c53030" %}   {# red #}
+{% elsif t == "grant" %}
+  {% assign color = "#1a202c" %}   {# dark gray #}
+{% elsif t == "media" %}
+  {% assign color = "#2c7a7b" %}   {# teal #}
+{% elsif t == "service" %}
+  {% assign color = "#4a5568" %}   {# muted gray #}
+{% else %}
+  {% assign color = "#555" %}
+{% endif %}
+
 <span style="
   display: inline-block;
   font-size: 0.75em;
   font-weight: 600;
-  letter-spacing: 0.05em;
-  color: #555;
-  border: 1px solid #ddd;
-  padding: 2px 8px;
-  border-radius: 12px;
+  letter-spacing: 0.06em;
+  color: {{ color }};
+  border: 1px solid {{ color }};
+  padding: 3px 10px;
+  border-radius: 14px;
   margin-bottom: 6px;">
   {{ item.type | upcase }}
 </span>
@@ -40,8 +62,16 @@ author_profile: true
 {% endif %}
 
 {% if item.image %}
-<img src="{{ item.image }}" alt="{{ item.title }}"
-     style="max-width: 100%; border-radius: 6px; margin-bottom: 12px;">
+<img src="{{ item.image }}"
+     alt="{{ item.title }}"
+     style="
+       width: 220px;
+       height: 140px;
+       object-fit: cover;
+       border-radius: 6px;
+       margin-bottom: 12px;
+     ">
 {% endif %}
+
 ---
 {% endfor %}
