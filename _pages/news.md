@@ -4,6 +4,11 @@ permalink: /news/
 layout: single
 author_profile: true
 ---
+<hr style="
+  margin: 0.5em 0 1.2em 0;
+  border: none;
+  border-top: 1px solid #e5e5e5;
+">
 
 {% assign news_items = site.data.news | sort: "date" | reverse %}
 
