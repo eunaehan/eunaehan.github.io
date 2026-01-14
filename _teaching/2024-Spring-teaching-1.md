@@ -8,6 +8,7 @@ location: "El Paso, TX"
 ---
  
 Semesters Taught:
+- Spring 2026
 - Spring 2025 
 - Fall 2024  
 
