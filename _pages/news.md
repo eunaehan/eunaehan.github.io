@@ -42,7 +42,7 @@ author_profile: true
   border: 1px solid {{ color }};
   padding: 3px 10px;
   border-radius: 14px;
-  margin-bottom: 6px;">
+  margin-bottom: 2px;">
   {{ item.type | upcase }}
 </span>
 {% endif %}
