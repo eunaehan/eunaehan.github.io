@@ -34,6 +34,25 @@
       url: "https://research.library.kutztown.edu/jcps/vol19/iss3/3/"
   image: /images/news/20251223_newsletter.png
 
+- date: 2025-12-16
+  type: "Award"
+  title: "2025 Best of El Paso"
+  description: "ABTS (Associated Behavioral and Trauma Specialties) was voted the #1 Best Counselor/Therapist in the 2025 Best of El Paso awards"
+    - label: "Magazine (PDF)"
+      url: "/files/news/TAARC-Newsletter-2025-11-16.pdf"
+  image: /images/news/ABTS_Best_of_El Paso_2025.jpg
+
+- date: 2025-11-16
+  type: "Newsletter"
+  title: "TAARC Newsletter: Members Research Profile — Evaluation of the Spanish version of the machismo measure with Mexican men who have a history of domestic violence"
+  description: "Featured in TAARC’s Newsletter: Members Research Profile, highlighting collaborative work evaluating the Spanish Machismo Measure with Mexican men and its implications for counseling and cross-border mental health research."
+  links:
+    - label: "Newsletter (PDF)"
+      url: "/files/news/TAARC-Newsletter-2025-11-16.pdf"
+    - label: "Full article"
+      url: "https://www.tandfonline.com/doi/full/10.1080/07481756.2024.2401438"
+  image: /images/news/20251116_taarc_newsletter.png
+
 - date: 2025-09-13
   type: "Award"
   title: "AARC: 2025 MECD Patricia B. Elmore Award for Outstanding Research"
