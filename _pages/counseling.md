@@ -19,10 +19,6 @@ Providing counseling services for trauma treatment. Intake, psychological testin
 
 Provided counseling services while receiving supervision. Intake, psychological testing, individual counseling including children, adolescents, and adults, couple and marriage counseling, and family counseling are being provided.
 
-<p align="Left">
-  <img src="/images/ABTS_Best_of_El Paso_2025.jpg" alt="ABTS_Best of El Paso_2025" width="600"/>
-  <figcaption><em>ABTS won Best of El Paso 2025 in the Best Therapists/Counselors category.</em></figcaption>
-</p>
 ---
 
 ## Professional Counselor  
