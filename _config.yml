@@ -354,4 +354,4 @@ compress_html:
   ignore:
     envs: development
 
-google-site-verification: "RIotbI8VbvkIOtikC5qDb6ygLNm-hWgpXG-nCYmVJcc"
+google_site_verification: "RIotbI8VbvkIOtikC5qDb6ygLNm-hWgpXG-nCYmVJcc"
