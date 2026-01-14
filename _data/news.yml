@@ -43,4 +43,13 @@
       url: "https://aarc-counseling.org/membership-2/awards/aarc-journal-editors-research-awards/"
   image: /images/news/20250913_AARC.jpg
 
+- date: 2025-09-12
+  type: "Presentation"
+  title: "AARC: Demystifying AI and Machine Learning for Counselor Educators"
+  description: "This 60-minute educational session at AARC 2025 introduces core concepts of artificial intelligence and machine learning in accessible, non-technical language for counselor educators, addressing common misconceptions, ethical considerations, and practical implications for counseling education."
+  links:
+    - label: "Full article"
+      url: "https://research.library.kutztown.edu/jcps/vol19/iss3/3/"
+  image: /images/news/20250912_AARC.jpg
+
 
