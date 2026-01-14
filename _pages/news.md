@@ -70,9 +70,14 @@ author_profile: true
   | replace: " ", "-"
 %}
 
-<h3 id="{{ slug }}" style="margin-top: 6px; margin-bottom: 2px;">
+<h3 id="{{ slug }}" style="
+  margin-top: 6px;
+  margin-bottom: 2px;
+  scroll-margin-top: 90px;
+">
   {{ item.title }}
 </h3>
+
 
 <span style="color: #666; font-size: 0.95em;">
   {{ item.date | date: "%B %d, %Y" }}
