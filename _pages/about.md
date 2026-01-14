@@ -15,7 +15,7 @@ Outside of my professional work, I enjoy practicing Kumdo/Kendo, exploring new p
 
 Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaehan@gmail.com</span>) if you have any questions or would like to discuss potential collaborations.
 
-<hr style="margin: 2.5em 0 1.5em 0; border: none; border-top: 1px solid #e5e5e5;">
+<hr style="margin: 1.0em 0 0.5em 0; border: none; border-top: 1px solid #e5e5e5;">
 
 <h2 style="margin-bottom: 0.6em;">Highlights</h2>
 
