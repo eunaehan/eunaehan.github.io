@@ -13,24 +13,25 @@ author_profile: true
 {% assign t = item.type | downcase %}
 
 {% if t == "publication" %}
-  {% assign color = "#2b6cb0" %}   {# blue #}
+  {% assign color = "#2b6cb0" %}   {% comment %} blue {% endcomment %}
 {% elsif t == "newsletter" %}
-  {% assign color = "#2f855a" %}   {# green #}
+  {% assign color = "#2f855a" %}   {% comment %} green {% endcomment %}
 {% elsif t == "talk" %}
-  {% assign color = "#805ad5" %}   {# purple #}
+  {% assign color = "#805ad5" %}   {% comment %} purple {% endcomment %}
 {% elsif t == "presentation" %}
-  {% assign color = "#b7791f" %}   {# amber #}
+  {% assign color = "#b7791f" %}   {% comment %} amber {% endcomment %}
 {% elsif t == "award" %}
-  {% assign color = "#c53030" %}   {# red #}
+  {% assign color = "#c53030" %}   {% comment %} red {% endcomment %}
 {% elsif t == "grant" %}
-  {% assign color = "#1a202c" %}   {# dark gray #}
+  {% assign color = "#1a202c" %}   {% comment %} dark gray {% endcomment %}
 {% elsif t == "media" %}
-  {% assign color = "#2c7a7b" %}   {# teal #}
+  {% assign color = "#2c7a7b" %}   {% comment %} teal {% endcomment %}
 {% elsif t == "service" %}
-  {% assign color = "#4a5568" %}   {# muted gray #}
+  {% assign color = "#4a5568" %}   {% comment %} muted gray {% endcomment %}
 {% else %}
   {% assign color = "#555" %}
 {% endif %}
+
 
 <span style="
   display: inline-block;
