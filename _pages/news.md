@@ -39,5 +39,9 @@ author_profile: true
 </p>
 {% endif %}
 
+{% if item.image %}
+<img src="{{ item.image }}" alt="{{ item.title }}"
+     style="max-width: 100%; border-radius: 6px; margin-bottom: 12px;">
+{% endif %}
 ---
 {% endfor %}
