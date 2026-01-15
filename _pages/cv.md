@@ -88,6 +88,9 @@ Professional Membership & Affiliations
 
 ### International
 
+* **International Society for the Study of Trauma and Dissociation**  
+  *2025 – Present*
+
 * **Chi Sigma Iota Counseling Academic and Professional Honor Society**  
   *2019 – Present*
 
