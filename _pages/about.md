@@ -11,7 +11,7 @@ I am Dr. Eunae Han, a Licensed Professional Counselor (Texas), National Certifie
 
 My research interests include **community-engaged scholarship**, **AI-assisted counselor education**, **trauma-informed counseling**, and **feminist perspective in counselor training**. I am passionate about bridging practice, pedagogy, and research to advance equity and wellness in both educational and clinical settings.  
 
-Outside of my professional work, I enjoy practicing Kumdo/Kendo, exploring new places through travel with my husband, playing board games, and finding joy in quiet mornings with coffee and a good book.
+Outside of my professional work, I enjoy practicing Kumdo/Kendo, traveling to new places with my husband, playing board games, and finding joy in quiet mornings with coffee and a good book.
 
 Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaehan@gmail.com</span>) if you have any questions or would like to discuss potential collaborations.
 
