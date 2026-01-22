@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-## Licensed Professional Counselor (Texas)
+## Licensed Professional Counselor (LPC), Texas 
 **November 2025 – Present**  
 **Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, Texas    
   
