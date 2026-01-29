@@ -6,5 +6,5 @@ authors: "Han, E., & Shin, J."
 venue: "Journal of Counseling & Development" 
 year: 2026 
 category: manuscripts 
-citation: "Accepted." 
+citation: "Accepted for publication on January 29, 2026." 
 ---
