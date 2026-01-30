@@ -58,9 +58,3 @@ Please feel free to contact me via email (<span style="color:#0055A4">dr.eunaeha
 <p style="margin-top: 0.8em;">
   <a href="{{ '/news/' | relative_url }}">View all news →</a>
 </p>
-
-<section class="pub-chart">
-  <h2>Publications by Year</h2>
-  <div id="pub-bars" class="pub-bars"></div>
-</section>
-
