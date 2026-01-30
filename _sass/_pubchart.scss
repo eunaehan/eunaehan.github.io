@@ -1,0 +1,31 @@
+.pub-chart { margin: 1.5rem 0; }
+.pub-bars { display: grid; gap: 10px; max-width: 760px; }
+
+.pub-bar-row {
+  display: grid;
+  grid-template-columns: 64px 1fr 40px;
+  gap: 10px;
+  align-items: center;
+}
+
+.pub-bar-year { font-weight: 600; }
+
+.pub-bar-track {
+  background: rgba(0,0,0,0.10);
+  border-radius: 999px;
+  overflow: hidden;
+  height: 14px;
+}
+
+.pub-bar-fill {
+  height: 14px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.65);
+  width: 0;
+  transition: width 650ms ease;
+}
+
+.pub-bar-count {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
