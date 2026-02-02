@@ -47,7 +47,7 @@ September 2020 – September 2021
 
 - **Reviewer for AERA Division D In-Progress Research Gala (IRPG)**  
 *American Educational Research Association (AERA) Measurement & Research Methodologies*  
-Feburary 2020  
+February 2020  
 
 - **Reviewer for Annual Conference**  
 *Korean Counseling Association*  
@@ -176,6 +176,6 @@ Paso, TX.
 *Dismantling Sexism by Understanding Internalized Sexism.*
 Colloquium Workshop hosted by UTEP College of Liberal Arts, Department of Psychology. 
 
-**Han, E.** (Feburary 2023)  
+**Han, E.** (February 2023)  
 *All About Relationships: Basic SPSS Functions for Understanding Data & Correlation Analysis.*
 Workshop hosted by UTEP College of Education, Office of Research Support.
