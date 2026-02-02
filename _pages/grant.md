@@ -17,11 +17,11 @@ Grants
 ## External Grants
 
 * **Co-Investigator**  
-  **Oct. 2024 – Oct. 2029**  
+  **October 2024 – October 2029**  
   UTEP’s Hispanic Servingness Program for Equity in Student Health and Success, U.S. Department of Education (DOE). Developing Hispanic-Serving Institutions (DHSI) Program. Total Award: $3,000,000.
 
 * **Co-Investigator**  
-  **Nov. 2024 – May 2025**  
+  **November 2024 – May 2025**  
   A community-engaged mixed-methods approach to understanding the service delivery needs of working-age people from racial/ethnic minority groups who have Long COVID (LC) and are interacting with SSA disability and state vocational rehabilitation (VR) systems, Social Security Administration. Total Award: $59,503.  
   [Terminated due to President's Executive Order]
 
