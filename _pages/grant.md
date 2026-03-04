@@ -49,6 +49,11 @@ Grants
 
 ## Internal Grants
 
+* **Co-Investigator**  
+  **2026–2027**  
+  Transforming Engineering Internship Experiences through Co-Mentoring Circles.  
+  University of Texas at El Paso (UTEP). Total Award: $25,000.
+
 * **Principal Investigator (PI)**  
   **2025–2027**  
   Enhancing Post-Traumatic Growth in the Paso del Norte Region: Initiating a Partnership between UTEP and Community Counseling Centers.  
