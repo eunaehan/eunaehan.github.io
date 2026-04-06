@@ -34,14 +34,14 @@
       url: "https://research.library.kutztown.edu/jcps/vol19/iss3/3/"
   image: /images/news/20251223_newsletter.png
 
-- date: 2025-12-16
-  type: "Award"
-  title: "2025 Best of El Paso"
-  description: "ABTS (Associated Behavioral and Trauma Specialties) was voted the #1 Best Counselor/Therapist in the 2025 Best of El Paso awards."
-  links:
-    - label: "Magazine (PDF)"
-      url: "/images/news/2025_Best of El Paso_ABTS.pdf"
-  image: /images/news/ABTS_Best_of_El Paso_2025.jpg
+# - date: 2025-12-16
+#  type: "Award"
+#  title: "2025 Best of El Paso"
+#  description: "ABTS (Associated Behavioral and Trauma Specialties) was voted the #1 Best Counselor/Therapist in the 2025 Best of El Paso awards."
+#  links:
+#    - label: "Magazine (PDF)"
+#      url: "/images/news/2025_Best of El Paso_ABTS.pdf"
+#  image: /images/news/ABTS_Best_of_El Paso_2025.jpg
 
 - date: 2025-11-16
   type: "Newsletter"
