@@ -148,6 +148,10 @@ Worked as a treasurer to keep accurate financial records and prepare the annual 
 
 ## Workshops  
 
+**Han, E.** (April 2026)  
+*AI & ML in the U.S. Counselor Education: Building literacy for classroom and Research*  
+Workshop hosted by Korean Counseling Association, International Chapter (KCA-IC). 
+
 **Wiltshire, C. A., Han, E., & Simon, J.** (May 2025)  
 *2025 IES Early Childhood Educator Community Wellness Gathering.*  
 Community Engagement Workshop supported by the Institute of Education Sciences (IES), El 
