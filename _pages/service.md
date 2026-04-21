@@ -154,22 +154,21 @@ Community Engagement Workshop supported by the Institute of Education Sciences (
 Paso, TX.
 
 ### U.S.–Mexico Counseling Profession Community Workshop Series
-
+Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.  
+- **Han, E.** (April 2026)  
+  *Treating Trauma Using Eye Movement Desensitization and Reprocessing (EMDR)*  
+  
 - **Han, E.** (November 2024)  
   *STAT 101: Basics to Understand Structural Equation Modeling*  
-  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
 
 - **Carrola, P., Han, E., & Rocha, J.** (April 2024)  
   *Supervision, Counselor Professional Identity, and Licensure in the U.S.*  
-  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
-
-- **Carrola, P. & Han, E.** (December 2023)  
+  
+- **Carrola, P., & Han, E.** (December 2023)  
   *Case Conceptualization & Treatment Plan in Mental Health Counseling*  
-  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
-
+  
 - **Han, E.** (October 2023)  
   *Assessment Practices in Mental Health Counseling in the U.S.*  
-  Pro bono professional development workshop for Mexican mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico.
   
 
 **Han, E.** (April 2023)  
