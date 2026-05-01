@@ -19,15 +19,15 @@ layout: single
 
 - **Editorial Board Member for Journal of Counseling and Development**  
 *American Counseling Association (ACA)*  
-July 2025 – Present
+July 2025 – Present  
 
 - **Editorial Board Member for Measurement and Evaluation in Counseling and Development**  
 *Association for Assessment and Research in Counseling (AARC)*  
-October 2023 – Present
+October 2023 – Present  
 
 - **Editorial Board Member for Journal of Professional Counseling: Practice, Theory and Research**  
 *Texas Counseling Association (TCA)*  
-November 2022 – Present
+November 2022 – December 2025  
 
 - **Editorial Board Member for Journal of College Counseling**  
 *American College Counseling Association (ACCA)*  
@@ -149,7 +149,7 @@ Worked as a treasurer to keep accurate financial records and prepare the annual 
 ## Workshops  
 
 **Han, E.** (April 2026)  
-*AI & ML in the U.S. Counselor Education: Building literacy for classroom and Research*  
+*AI & ML in the U.S. Counselor Education: Building literacy for Classroom and Research*  
 Workshop hosted by Korean Counseling Association, International Chapter (KCA-IC). 
 
 **Wiltshire, C. A., Han, E., & Simon, J.** (May 2025)  
