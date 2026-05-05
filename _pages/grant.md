@@ -11,9 +11,6 @@ layout: single
 
 ---
 
-Grants
-=================================================
-
 ## External Grants
 
 * **Co-Investigator**  
