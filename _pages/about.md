@@ -9,7 +9,7 @@ redirect_from:
 
 I am Dr. Eunae Han, a Licensed Professional Counselor (LPC) in Texas, National Certified Counselor (NCC), and Assistant Professor in the Department of Counseling and Special Education at the University of Texas at El Paso (UTEP). My work centers on supporting future counselors and counselor educators through trauma-informed, social justice-oriented, and feminist approaches.
 
-My research interests include **community-engaged scholarship**, **AI-assisted counselor education**, **trauma-informed counseling**, and **feminist perspective in counselor training**. I am passionate about bridging practice, pedagogy, and research to advance equity and wellness in both educational and clinical settings.  
+My research interests include **AI-assisted counselor education**, **trauma-informed counseling**, and **feminist perspective in counselor training**. I am passionate about bridging practice, pedagogy, and research to advance equity and wellness in both educational and clinical settings.  
 
 Outside of my professional work, I enjoy practicing Kumdo/Kendo, traveling to new places with my husband, playing board games, and finding joy in quiet mornings with coffee and a good book.
 
