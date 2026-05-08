@@ -54,6 +54,8 @@ author_profile: true
       {% assign color = "#2c7a7b" %}
     {% elsif t == "service" %}
       {% assign color = "#4a5568" %}
+    {% elsif t == "Professional Workshops" %}
+      {% assign color = "#dd6b20" %}
     {% else %}
       {% assign color = "#555" %}
     {% endif %}
