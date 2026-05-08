@@ -102,11 +102,14 @@ author_profile: true
 <img src="{{ item.image }}"
      alt="{{ item.title }}"
      style="
-       width: 300px;
-       height: 300px;
+       width: 100%;
+       max-width: 300px;
+       aspect-ratio: 1 / 1;
        object-fit: cover;
-       border-radius: 2px;
+       object-position: center;
+       border-radius: 6px;
        margin-bottom: 6px;
+       display: block;
      ">
 {% endif %}
 
