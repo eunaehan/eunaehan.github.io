@@ -39,7 +39,6 @@ Education
 Primary Research Interests
 ==========================
 
-- Community-engaged scholarship  
 - Feminist approaches to counselor education  
 - Trauma-informed counseling and supervision  
 - Research competence and AI-assisted counselor education
