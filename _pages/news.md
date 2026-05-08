@@ -103,7 +103,7 @@ author_profile: true
      alt="{{ item.title }}"
      style="
        width: 100%;
-       max-width: 600px;
+       max-width: 500px;
        height: auto;
        border-radius: 6px;
        margin-bottom: 6px;
