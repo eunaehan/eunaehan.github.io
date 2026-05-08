@@ -9,7 +9,11 @@ layout: single
 **November 2025 – Present**  
 **Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, Texas    
   
-Providing counseling services for trauma treatment. Intake, psychological testing, individual counseling including children, adolescents, and adults, couple and marriage counseling, and family counseling are being provided.
+Providing counseling services for trauma treatment, including EMDR (Eye Movement Desensitization and Reprocessing). Services include intake assessment, psychological testing, individual counseling for children, adolescents, and adults, couples and marriage counseling, and family counseling.  
+  
+<p align="center">
+  <img src="/images/ABTS_Best_of_El Paso_2025.jpg" width="600">
+</p>
 
 ---
 ## LPC Associate Practice under Supervision  
