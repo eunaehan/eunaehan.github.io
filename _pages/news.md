@@ -104,9 +104,7 @@ author_profile: true
      style="
        width: 100%;
        max-width: 600px;
-       aspect-ratio: 1 / 1;
-       object-fit: cover;
-       object-position: center;
+       height: auto;
        border-radius: 6px;
        margin-bottom: 6px;
        display: block;
