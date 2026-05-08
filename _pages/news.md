@@ -103,7 +103,7 @@ author_profile: true
      alt="{{ item.title }}"
      style="
        width: 100%;
-       max-width: 300px;
+       max-width: 600px;
        aspect-ratio: 1 / 1;
        object-fit: cover;
        object-position: center;
