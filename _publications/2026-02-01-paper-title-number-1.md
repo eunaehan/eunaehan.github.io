@@ -1,7 +1,7 @@
 ---
 title: "Creating and Facilitating Sustainable International Collaborations with Mental Health Professionals"
 collection: publications 
-permalink: /publication/2026-03-19-paper-title-number-1 
+permalink: /publication/2026-02-01-paper-title-number-1 
 authors: "Rocha, J., Carrola, P., Han, E., Castro Valles, A., Gonzalez Valles, M. N., Anguiano, J. A., & Lozano Martinez, J. R." 
 venue: "International Journal for the Advancement of Counselling" 
 year: 2026 
