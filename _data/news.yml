@@ -10,8 +10,20 @@
 # - Media        : Interviews, press coverage
 # - Newsletter   : ACES, APA, ACA newsletters
 # - Service      : Editorial boards, leadership roles
-# - Professional Workshops : Professional Workshops
+# - Workshops    : Professional Workshops
 # -------------------------------------------------------------------
+
+- date: 2026-04-23  
+  type: "Workshops"  
+  title: "AI & ML in the U.S. Counselor Education: Building Literacy for Classroom and Research"  
+  description: "Workshop hosted by the Korean Counseling Association International Chapter (KCA-IC) focusing on artificial intelligence and machine learning literacy in counselor education, including applications for classroom teaching and research."
+  image: /images/news/20260423_kcaic_ai_ml_workshop.png  
+
+- date: 2026-04-21    
+  type: "Workshops"  
+  title: "Treating Trauma Using Eye Movement Desensitization and Reprocessing (EMDR)"  
+  description: "Professional development workshop for mental health students and faculty at Universidad Autónoma de Ciudad Juárez in Ciudad Juárez, Mexico, focused on trauma treatment using Eye Movement Desensitization and Reprocessing (EMDR)."  
+  image: /images/news/20260421_emdr_workshop_uacj.png  
 
 - date: 2026-01-14
   type: "Newsletter"
