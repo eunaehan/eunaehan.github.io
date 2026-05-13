@@ -18,22 +18,22 @@ Position
 Education
 ======
 * **Ph.D. in Education**  
-<img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States   
+  <img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States   
   *Area of Specialization: Counselor Education and Supervision (CACREP Accredited)*  
   **May 2022**
 
 * **M.A. in Education**  
-<img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States  
+  <img src="/images/Block IOWA_logo.png" alt="University of Iowa" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**The University of Iowa**, Iowa, United States  
   *Area of Specialization: Educational Measurement and Statistics*  
   **May 2022**
 
 * **M.A. in Education**  
-<img src="/images/Seoul_national_university_logo.png" alt="Seoul National University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Seoul National University**, Seoul, South Korea  
+  <img src="/images/Seoul_national_university_logo.png" alt="Seoul National University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Seoul National University**, Seoul, South Korea  
   *Area of Specialization: Educational Counseling*  
   **February 2015**
 
 * **B.A. in English Language Education**  
-<img src="/images/Seoul_national_university_logo.png" alt="Seoul National University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Seoul National University**, Seoul, South Korea  
+  <img src="/images/Seoul_national_university_logo.png" alt="Seoul National University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Seoul National University**, Seoul, South Korea  
   **August 2012**
 
 Primary Research Interests
