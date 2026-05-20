@@ -17,11 +17,11 @@ layout: single
 
 ### 📰 Peer-reviewed Journal
 
-- **Editorial Board Member for Journal of Counseling and Development**  
+- **Editorial Board Member for Journal of Counseling and Development (JCD)**  
 *American Counseling Association (ACA)*  
 July 2025 – Present  
 
-- **Editorial Board Member for Measurement and Evaluation in Counseling and Development**  
+- **Editorial Board Member for Measurement and Evaluation in Counseling and Development (MECD)**  
 *Association for Assessment and Research in Counseling (AARC)*  
 October 2023 – Present  
 
