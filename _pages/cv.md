@@ -97,10 +97,10 @@ Professional Membership & Affiliations
 * **Korean Counseling Association**  
   *2013 – Present*
 
-* **Korean Psychological Association**  
+* Korean Psychological Association  
   *2017 – 2025*
 
-* **International Society for Traumatic Stress Studies**  
+* International Society for Traumatic Stress Studies  
   *2018 – 2019*
 
 ### National
@@ -114,16 +114,16 @@ Professional Membership & Affiliations
 * **American Counseling Association**  
   *2018 – Present*
 
-* **American Mental Health Counselors Association**  
+* American Mental Health Counselors Association  
   *2021 – 2022*
 
-* **Association for Women in Psychology**  
+* Association for Women in Psychology  
   *2021 – 2022*
 
-* **American College Counseling Association**  
+* American College Counseling Association  
   *2021 – 2022*
 
-* **Association for Spiritual, Ethical, and Religious Values in Counseling**  
+* Association for Spiritual, Ethical, and Religious Values in Counseling  
   *2020 – 2022*
 
 ### Regional & Local
@@ -140,10 +140,10 @@ Professional Membership & Affiliations
 * **Texas Association for Counselor Education and Supervision**  
   *2022 – Present*
 
-* **North Central Association for Counselor Education and Supervision**  
+* North Central Association for Counselor Education and Supervision  
   *2019 – 2022*
 
-* **American Counseling Association of Iowa**  
+* American Counseling Association of Iowa  
   *2018 – 2022*
 
 <!-- 
