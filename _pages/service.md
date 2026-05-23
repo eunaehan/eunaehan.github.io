@@ -104,6 +104,11 @@ Selected emerging leaders who held potential for leadership and participated in 
 
 ### 🎓 University-level Commitment
 
+- **Judge for the Presidential AI Challenge**  
+*The University of Texas at El Paso*  
+*January 2026*  
+Served as a judge for the Presidential AI Challenge, evaluating K–12 student projects that applied artificial intelligence to address community challenges and promote innovation in AI education.      
+
 - **Faculty Representation for the College of Education**  
 *Provost’s Community Engagement Council at the University of Texas at El Paso*  
 *October 2025 – Present*  
