@@ -65,6 +65,7 @@ Professional Certification and Licensure
 
 Additional Certifications and Training (including Psychological Testing)
 ========================================================================
+- The Complexities of Complex Trauma
 - Basic Eye Movement Desensitization and Reprocessing (EMDR) Therapy Training 
 - EMDR Therapy Protocols for Early Intervention and Ongoing Traumatic Stress (Advanced) 
 - Integrating EMDR into Phase Oriented Treatment of Complex Trauma  
