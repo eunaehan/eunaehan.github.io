@@ -27,7 +27,7 @@ October 2023 – Present
 
 - **Editorial Board Member for Journal of Professional Counseling: Practice, Theory and Research**  
 *Texas Counseling Association (TCA)*  
-November 2022 – December 2025  
+November 2022 – Present    
 
 - **Editorial Board Member for Journal of College Counseling**  
 *American College Counseling Association (ACCA)*  
