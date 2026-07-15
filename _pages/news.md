@@ -56,6 +56,8 @@ author_profile: true
       {% assign color = "#4a5568" %}
     {% elsif t == "workshops" %}
       {% assign color = "#dd6b20" %}
+    {% elsif t == "appointment" %}
+      {% assign color = "#F76900" %}
     {% else %}
       {% assign color = "#555" %}
     {% endif %}
