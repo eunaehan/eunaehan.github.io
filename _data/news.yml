@@ -17,8 +17,10 @@
 - date: 2026-08-17
   type: "Appointment"
   title: "Joined Syracuse University as Assistant Professor"  
-  description: "I am excited to share that I have joined Syracuse University this fall as a tenure-track Assistant Professor in the Department of Counseling and Human Services within the School of Education. I am incredibly grateful to everyone who has supported and encouraged me
-    throughout this journey. This new chapter is both exciting and humbling, and I look forward to learning from wonderful colleagues and students, contributing through teaching and research, and becoming part of the Syracuse community. 😊"  
+  description: >
+    I am excited to share that I have joined Syracuse University this fall as a tenure-track Assistant Professor in the Department of Counseling and Human Services within the School of Education. 
+  
+    I am incredibly grateful to everyone who has supported and encouraged me throughout this journey. This new chapter is both exciting and humbling, and I look forward to learning from wonderful colleagues and students, contributing through teaching and research, and becoming part of the Syracuse community. 😊  
     
 - date: 2026-04-23  
   type: "Workshops"  
