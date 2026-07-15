@@ -75,7 +75,7 @@ Selected emerging leaders who held potential for leadership and participated in 
 
 - **Chapter Faculty Advisor - Chi Sigma Iota (CSI) Upsilon Tau Epsilon**  
 *Department of Counseling and Special Education (UTEP)*  
-*September 2023 – Present*  
+*September 2023 – August 2026*  
 Works as a faculty advisor to ensure the integrity of the membership application process by verifying the accuracy of every applicant's data and suitability for the honor of membership within the Society. Supports student officers to develop their leadership skills and provides advice to run the chapter.
 <p align="center">
   <img src="/images/CSI.jpg" alt="CSI_2025" width="500"/>
@@ -111,7 +111,7 @@ Served as a judge for the Presidential AI Challenge, evaluating K–12 student p
 
 - **Faculty Representation for the College of Education**  
 *Provost’s Community Engagement Council at the University of Texas at El Paso*  
-*October 2025 – Present*  
+*October 2025 – August 2026*  
 Nominated and serving as the official faculty representative for the College of Education on the Provost’s Community Engagement Council. Participating in university-wide discussions focused on strengthening campus–community partnerships, supporting engaged scholarship, and advancing UTEP’s strategic initiatives in community engagement. As the College of Education’s delegate, I provide input on council decisions, communicate college priorities, and collaborate with faculty and community leaders to promote meaningful, equitable, and sustainable engagement efforts across the region.  
 
 - **At-Large Position Member of the Council on the Status of Women**  
