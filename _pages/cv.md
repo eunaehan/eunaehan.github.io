@@ -11,9 +11,14 @@ redirect_from:
 Position 
 ======
 * **Assistant Professor (Tenure-Track)**  
+  <img src="/images/Syracuse_logo.png" alt="Syracuse University" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**Syracuse University**, New York, United States  
+  *Unit of Counseling and Human Services, School of Education*  
+  **August 2026 – Present**
+
+* **Assistant Professor (Tenure-Track)**  
   <img src="/images/UTEP_logo.png" alt="University of Texas at El Paso" width="25" style="vertical-align:middle; margin-right:6px;">&nbsp;**University of Texas at El Paso**, Texas, United States  
   *Department of Counseling and Special Education*  
-  **September 2022 – Present**
+  **September 2022 – August 2026**
 
 Education
 ======
