@@ -6,7 +6,7 @@ layout: single
 ---
 
 ## Licensed Professional Counselor (LPC), Texas 
-**November 2025 – Present**  
+**November 2025 – August 2026**  
 **Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, Texas    
   
 Providing counseling services for trauma treatment, including EMDR (Eye Movement Desensitization and Reprocessing). Services include intake assessment, psychological testing, individual counseling for children, adolescents, and adults, couples and marriage counseling, and family counseling.  
