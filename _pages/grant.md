@@ -17,7 +17,7 @@ Grants
 ## External Grants
 
 * **Co-Investigator**  
-  **October 2024 – October 2029**  
+  **October 2024 – August 2026**  
   UTEP’s Hispanic Servingness Program for Equity in Student Health and Success, U.S. Department of Education (DOE). Developing Hispanic-Serving Institutions (DHSI) Program. Total Award: $3,000,000.
 
 * **Co-Investigator**  
@@ -50,12 +50,12 @@ Grants
 ## Internal Grants
 
 * **Co-Investigator**  
-  **2026–2027**  
+  **2026**  
   Transforming Engineering Internship Experiences through Co-Mentoring Circles.  
   University of Texas at El Paso (UTEP). Total Award: $25,000.
 
 * **Principal Investigator (PI)**  
-  **2025–2027**  
+  **2025–2026**  
   Enhancing Post-Traumatic Growth in the Paso del Norte Region: Initiating a Partnership between UTEP and Community Counseling Centers.  
   The UTEP Center for Investigator Training and Community Engagement in Transdisciplinary Minority Health Disparities Research Pilot Project Program, University of Texas at El Paso (UTEP). Total Award: $50,000.
 
