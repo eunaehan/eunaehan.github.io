@@ -5,11 +5,10 @@ author_profile: true
 layout: single
 ---
 ## Licensed Professional Counselor (LPC), Texas
-*Licensed since November 2025*
-
+*Licensed since November 2025*  
+**October 2023 – July 2026**  
 **Site:** <a href="https://www.abts.us/" target="_blank" rel="noopener">Associated Behavioral and Trauma Specialties (ABTS)</a>, El Paso, Texas
 
-**October 2023 – July 2026**
 - **LPC:** November 2025 – July 2026
 - **LPC Associate** *(under supervision by Gerardo Rosas and Zul Estrada)*: October 2023 – November 2025
 
