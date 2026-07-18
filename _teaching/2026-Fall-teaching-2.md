@@ -1,10 +1,10 @@
 ---
-title: "COU 646 Assessment in Counseling"
-collection: teaching
-type: "Graduate course"
-permalink: /teaching/2026-Fall-teaching-2
-venue: "Syracuse University"
-location: "Syracuse, NY"
+title: "COU 646 Assessment in Counseling"  
+collection: teaching  
+type: "Graduate course"  
+permalink: /teaching/2026-Fall-teaching-2  
+venue: "Syracuse University"  
+location: "Syracuse, NY"  
 ---
 
 Semesters Taught:
