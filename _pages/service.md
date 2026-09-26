@@ -63,6 +63,11 @@ September 2019
 
 ### 🧭 National-level Commitment
 
+- **Chapter Faculty Advisor - Chi Sigma Iota (CSI) Sigma Upsilon**  
+*Unit of Counseling and Human Services (Syracuse University)*  
+*September 2026 – Present*  
+Works as a faculty advisor to ensure the integrity of the membership application process by verifying the accuracy of every applicant's data and suitability for the honor of membership within the Society. Supports student officers to develop their leadership skills and provides advice to run the chapter. 
+
 - **Conference Committee Member**   
 *Association for Assessment and Research in Counseling (AARC)*   
 *October 2025 – September 2026*  
