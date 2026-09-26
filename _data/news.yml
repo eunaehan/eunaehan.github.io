@@ -14,6 +14,13 @@
 # - Appointment : New academic or professional positions
 # -------------------------------------------------------------------
 
+
+- date: 2026-09-18  
+  type: "Talk"  
+  title: "Perceptions of Counseling Across the Globe"  
+  description: "Served as an international panelist at the 2026 AARC Conference, sharing my experience as a professional counselor in South Korea and discussing how it has shaped her perspective on the counseling profession in the United States. The panel brought together six international counseling professionals to exchange perspectives, experiences, and insights on counseling across different cultural contexts."
+  image: /images/news/20260918_aarc_international_panel.jfif  
+
 - date: 2026-08-17
   type: "Appointment"
   title: "Joining Syracuse University as Assistant Professor"  
