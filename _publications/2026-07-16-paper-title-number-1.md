@@ -6,6 +6,6 @@ authors: "Han, E., Hsu, P.-L., & Shin, J."
 venue: "Journal of Counseling & Development"
 year: 2026
 category: manuscripts
-citation: "Han, E., Hsu, P.-L., & Shin, J. (2026). Enhancing Counselor Education with Artificial Intelligence Chatbots: Attitudes toward Artificial Intelligence and Counseling Skill Self-Efficacy. Journal of Counseling & Development."  
-paperurl: ""
+citation: "Han, E., Hsu, P. L., & Shin, J. (2026). Enhancing Counselor Education With Artificial Intelligence Chatbots: Attitudes Toward Artificial Intelligence and Counseling Skill Self‐Efficacy. Journal of Counseling & Development. https://doi.org/10.1002/jcad.70058"  
+paperurl: "https://doi.org/10.1002/jcad.70058"
 ---  
