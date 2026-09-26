@@ -134,17 +134,17 @@ Professional Membership & Affiliations
 
 ### Regional & Local
 
-* **Texas Association for Assessment and Research in Counseling**  
-  *2025 – Present*
+* Texas Association for Assessment and Research in Counseling  
+  *2025 – 2026*
   
-* **Southern Association for Counselor Education and Supervision**  
-  *2022 – Present*
+* Southern Association for Counselor Education and Supervision  
+  *2022 – 2026*
 
-* **Texas Counseling Association**  
-  *2022 – Present*
+* Texas Counseling Association  
+  *2022 – 2026*
   
-* **Texas Association for Counselor Education and Supervision**  
-  *2022 – Present*
+* Texas Association for Counselor Education and Supervision  
+  *2022 – 2026*
 
 * North Central Association for Counselor Education and Supervision  
   *2019 – 2022*
