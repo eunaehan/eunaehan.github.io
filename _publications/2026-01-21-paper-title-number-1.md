@@ -6,5 +6,6 @@ authors: "Hyun, J., & Han, E."
 venue: "Trauma Counseling and Resilience" 
 year: 2026 
 category: manuscripts 
-citation: "Accepted for publication on January 21, 2026." 
+citation: "Hyun, J. H., & Han, E. (2026). Collective Trauma and Systemic Negligence: Exploring South Korean Disasters Through Media and Cultural Narratives. Trauma Counseling and Resilience, 3(1), 2. https://doi.org/10.33470/2997-7088.1065"   
+paperurl: "https://doi.org/10.33470/2997-7088.1065"    
 ---
