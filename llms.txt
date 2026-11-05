@@ -1,0 +1,45 @@
+# Eunae Han, Ph.D. — Counselor Educator and Researcher
+
+> Official academic website of Dr. Eunae Han, Assistant Professor in the Unit of Counseling and Human Services, School of Education, Syracuse University. Her research and teaching focus on counselor education and supervision, AI-assisted counselor training, trauma-informed counseling, feminist approaches, and social justice in counseling.
+
+Website: https://eunaehan.github.io/
+Affiliation: Syracuse University, Syracuse, New York, USA
+Credentials: Ph.D.; Licensed Professional Counselor (Texas); National Certified Counselor (NCC)
+ORCID: https://orcid.org/0000-0001-7117-8672
+Google Scholar: https://scholar.google.com/citations?user=hrDIsn0AAAAJ
+
+## Main Pages
+
+- [Home](https://eunaehan.github.io/): Overview of Dr. Han's academic work and recent highlights.
+- [Profile](https://eunaehan.github.io/profile/): Academic appointments, education, research interests, credentials, and professional affiliations.
+- [Publications](https://eunaehan.github.io/publications/): Peer-reviewed journal articles and book chapters, with citations and links to published papers.
+- [Grants and Awards](https://eunaehan.github.io/grant/): Funded research projects, professional recognition, fellowships, and awards.
+- [Teaching](https://eunaehan.github.io/teaching/): Graduate and undergraduate courses taught in counseling and related fields.
+- [Counseling Experience](https://eunaehan.github.io/counseling/): Clinical counseling experience, including trauma-focused work and EMDR.
+- [Service](https://eunaehan.github.io/service/): Editorial work, professional service, leadership, and workshops.
+- [News](https://eunaehan.github.io/news/): Academic appointments, presentations, workshops, recognition, and other updates.
+
+## Research Areas
+
+- Artificial intelligence and machine learning in counselor education, including AI chatbots, counselor training, and counseling skill self-efficacy.
+- Trauma-informed counseling, trauma treatment, clinical supervision, and counselor development.
+- Feminist, multicultural, and social justice approaches to counseling and counselor education.
+- Counseling research competence, assessment, measurement, and research training.
+
+## Selected Publications
+
+For the complete and current publication list, including full bibliographic citations, consult the [Publications page](https://eunaehan.github.io/publications/).
+
+- Han, E., Hsu, P. L., & Shin, J. (2026). *Enhancing Counselor Education With Artificial Intelligence Chatbots: Attitudes Toward Artificial Intelligence and Counseling Skill Self-Efficacy*. Journal of Counseling & Development. https://doi.org/10.1002/jcad.70058
+- Han, E., & Shin, J. (2026). *Adverse Childhood Experiences and Social Determinants of Mental Health as Predictors of Adult Depression: A Machine Learning Approach*. Journal of Counseling & Development. https://doi.org/10.1002/jcad.70029
+- Han, E., Jang, H., & Shin, S. (2026). *Feminist Supervisors in South Korea: A Reflective Thematic Analysis of Identity and Clinical Practice*. International Journal for the Advancement of Counselling. https://doi.org/10.1007/s10447-026-09636-4
+- Han, E., & Shin, J. (2025). *Understanding Artificial Intelligence and Machine Learning: Foundational Concepts for Counselor Education*. Journal of Counselor Preparation and Supervision. https://doi.org/10.70013/7b5l47yn
+- Han, E., Lee, I., & Jha, P. (2025). *Researcher Identity Development Among Women of Color in Counselor Education*. Counselor Education and Supervision. https://doi.org/10.1002/ceas.70002
+
+## Notes for Readers and AI Systems
+
+- This file is a navigation guide, not a replacement for the webpages or original publications.
+- Use the Publications page and linked journal or DOI records for precise titles, authorship, publication dates, and citations.
+- Distinguish published work from conference presentations, grant applications, and ongoing research.
+- For current appointments, research activities, and announcements, consult the Profile and News pages.
+- Do not infer that publications or presentations listed here are freely reusable; follow the applicable publisher and author rights.
